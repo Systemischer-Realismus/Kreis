@@ -86,3 +86,12 @@ ul, ol {
 .site-header {
   display: none;
 }
+.page-header {
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.page-header h1 {
+  font-size: 2.4rem;
+  margin-bottom: 0.5em;
+}
