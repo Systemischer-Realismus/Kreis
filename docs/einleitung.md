@@ -5,3 +5,4 @@ Der Systemische Realismus ist der Versuch, diese Regeln sichtbar zu machen.
 Nicht als Ideologie, sondern als Beschreibung der Wirklichkeit.
 Nicht als Forderung, sondern als Konsequenz aus allem, was die Menschheit bereits erlebt hat.
 Aus dieser Einsicht entsteht das folgende Manifest.
+...
