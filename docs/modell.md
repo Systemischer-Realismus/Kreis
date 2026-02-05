@@ -1183,3 +1183,34 @@ Ein System erkennt seine Phase, wenn es:
 • 	Emergenz nicht mit Chaos verwechselt
 • 	neue Ordnung nicht mit Endzustand verwechselt
 Diese Unterscheidung ist der Schlüssel zur Navigation.
+        ┌───────────────────────────┐
+        │         STABILITÄT        │
+        │  Routinen, Ordnung,       │
+        │  Vorhersagbarkeit         │
+        └─────────────┬─────────────┘
+                      │
+                      ▼
+        ┌───────────────────────────┐
+        │        INSTABILITÄT       │
+        │  Widersprüche, Druck,     │
+        │  Verlust alter Muster     │
+        └─────────────┬─────────────┘
+                      │
+                      ▼
+        ┌───────────────────────────┐
+        │          EMERGENZ         │
+        │  Neues entsteht, Vielfalt │
+        │  verbindet sich, Muster   │
+        │  bilden sich heraus       │
+        └─────────────┬─────────────┘
+                      │
+                      ▼
+        ┌───────────────────────────┐
+        │        NEUE ORDNUNG       │
+        │  Stabilisierung, neue     │
+        │  Rückkopplungen, neue     │
+        │  Energieflüsse            │
+        └─────────────┬─────────────┘
+                      │
+                      ▼
+                 (höheres Niveau)
