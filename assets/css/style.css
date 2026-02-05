@@ -126,3 +126,9 @@ p + p {
 }
 <p class="sidebar-hint">Willkommen auf der offiziellen Seite. Dieses Werk befindet sich im Aufbau.</p>
 <p class="motto">Wir sind im Aufbruch.</p>
+.motto-block {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid rgba(0,0,0,0.15);
+}
