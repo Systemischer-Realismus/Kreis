@@ -53,3 +53,41 @@ Resiliente Systeme brechen nicht – sie passen sich an.
 Transformation bezeichnet den strukturellen Wandel eines Systems, wenn Stabilität nicht mehr erreichbar ist.
 Transformation ist kein Ausnahmefall, sondern ein natürlicher Prozess, wenn Grenzen überschritten werden.
 Sie kann evolutionär, revolutionär oder kollapsartig verlaufen.
+Dann gehen wir jetzt in Modell.md weiter – und zwar mit dem nächsten großen Baustein:
+Wie Systeme stabil bleiben – und warum sie instabil werden
+Ich formuliere dir diesen Abschnitt so, dass er direkt in dein Modell passt: klar, universell, anschlussfähig an die Historie und konsistent mit deinen Grundbegriffen.
+
+Stabilität und Instabilität von Systemen
+Systeme sind nicht zufällig stabil oder instabil. Ihre Dynamik folgt aus ihrer Struktur, ihren Energieflüssen und den Rückkopplungen, die sie erzeugen. Stabilität entsteht, wenn ein System seine Reproduktion sichern kann und seine Grenzen respektiert. Instabilität entsteht, wenn diese Bedingungen verletzt werden.
+Voraussetzungen für Stabilität
+- Ausreichende Energieflüsse
+Ein System bleibt stabil, wenn es genügend Energie erhält, um seine Strukturen zu erhalten und zu erneuern.
+- Funktionierende Reproduktion
+Prozesse, Institutionen und Ressourcen müssen sich selbst erhalten können.
+- Negative Rückkopplungen
+Stabilisierende Mechanismen dämpfen Störungen und verhindern Eskalation.
+- Kompatible Strukturen
+Die Elemente eines Systems müssen zusammenpassen – ökonomisch, sozial, kulturell.
+- Respektierte Grenzen
+Systeme bleiben stabil, wenn sie innerhalb ihrer ökologischen, sozialen und ökonomischen Grenzen operieren.
+Ursachen von Instabilität
+- Überlastete Energieflüsse
+Wenn Ressourcen erschöpft sind oder Energie falsch verteilt wird, verliert das System seine Funktionsfähigkeit.
+- Gestörte Reproduktion
+Wenn zentrale Prozesse nicht mehr erneuert werden können, entsteht struktureller Zerfall.
+- Positive Rückkopplungen
+Verstärkende Dynamiken treiben das System in extreme Zustände – Wachstum, Krise, Zusammenbruch.
+- Pfadabhängigkeit
+Systeme bleiben an Strukturen gebunden, die nicht mehr zur Umwelt passen.
+- Grenzüberschreitungen
+Ökologische, soziale oder politische Grenzen werden überschritten, lange bevor der Kollaps sichtbar wird.
+Die Logik der Instabilität
+Instabilität ist kein Fehler, sondern ein Hinweis auf strukturelle Überlastung.
+Sie zeigt, dass ein System seine Reproduktion nicht mehr sichern kann.
+Instabilität ist der Vorbote von Transformation – evolutionär oder revolutionär.
+
+Wenn du möchtest, erweitern wir diesen Abschnitt jetzt um:
+- Systemische Krisen
+- Transformationslogiken
+- Warum moderne Systeme besonders verletzlich sind
+oder wir gehen direkt weiter zum nächsten Kapitel deines Modells.
