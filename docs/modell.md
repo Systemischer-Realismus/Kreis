@@ -18,3 +18,38 @@ Stabilität entsteht, wenn Energieflüsse, Rückkopplungen und Reproduktion im G
 
 ⚡ Instabilität
 Instabilität entsteht, wenn Grenzen überschritten, Energieflüsse gestört oder Reproduktionsprozesse unterbrochen werden. Instabile Systeme reagieren mit Krisen, Brüchen oder Transformationen. Instabilität ist kein Fehler, sondern ein Hinweis auf strukturelle Überlastung.
+
+🔁 Rückkopplung
+Rückkopplung beschreibt die Wirkung, mit der ein System auf seine eigenen Prozesse reagiert.
+Positive Rückkopplung verstärkt Entwicklungen, negative Rückkopplung stabilisiert sie.
+Ob ein System wächst, stagniert oder kollabiert, hängt von der Balance dieser Rückkopplungen ab.
+
+✨ Emergenz
+Emergenz bezeichnet Eigenschaften oder Muster, die aus dem Zusammenspiel vieler Elemente entstehen, aber nicht aus den Eigenschaften der Einzelteile erklärbar sind.
+Systeme erzeugen Emergenz, sobald ihre Komplexität eine kritische Schwelle überschreitet.
+Gesellschaften, Ökosysteme und Märkte funktionieren nach diesem Prinzip.
+
+🧭 Pfadabhängigkeit
+Pfadabhängigkeit bedeutet, dass frühere Entscheidungen oder Strukturen die zukünftigen Möglichkeiten eines Systems begrenzen.
+Systeme entwickeln Trägheit: Je länger ein Pfad verfolgt wird, desto schwerer ist seine Veränderung.
+Pfadabhängigkeit erklärt, warum Systeme oft an überholten Strukturen festhalten.
+
+🧩 Struktur
+Struktur ist das Muster der Beziehungen zwischen den Elementen eines Systems.
+Sie bestimmt, wie Energie fließt, wie Informationen verarbeitet werden und welche Verhaltensweisen möglich sind.
+Struktur ist stabiler als Verhalten – und erklärt mehr als individuelle Entscheidungen.
+
+🌐 Vernetzung
+Vernetzung beschreibt die Anzahl und Qualität der Verbindungen zwischen Systemelementen.
+Hohe Vernetzung erhöht Effizienz, aber auch Verletzlichkeit: Störungen können sich schneller ausbreiten.
+Globale Systeme sind heute so stark vernetzt, dass lokale Ereignisse globale Folgen haben.
+
+🧱 Resilienz
+Resilienz ist die Fähigkeit eines Systems, Störungen aufzunehmen und dennoch funktionsfähig zu bleiben.
+Sie entsteht durch Vielfalt, Redundanz und flexible Strukturen.
+Resiliente Systeme brechen nicht – sie passen sich an.
+
+🔄 Transformation
+Transformation bezeichnet den strukturellen Wandel eines Systems, wenn Stabilität nicht mehr erreichbar ist.
+Transformation ist kein Ausnahmefall, sondern ein natürlicher Prozess, wenn Grenzen überschritten werden.
+Sie kann evolutionär, revolutionär oder kollapsartig verlaufen.
