@@ -1042,3 +1042,46 @@ Sie ist ein temporäres Gleichgewicht, das so lange trägt, wie es:
 • 	kulturelle Muster lernfähig hält
 • 	Institutionen elastisch hält
 Zukunftsfähige Systeme bauen Ordnungen, die sich selbst erneuern können.
+Zyklen sind der Herzschlag komplexer Systeme. Sie bewegen sich nicht linear von Ordnung zu Ordnung, sondern durchlaufen wiederkehrende Phasen, in denen Stabilität, Instabilität, Emergenz und neue Ordnung sich gegenseitig bedingen. Zukunft entsteht nicht trotz dieser Zyklen, sondern durch sie.
+
+Zyklus komplexer Systeme
+Stabilität
+Das System funktioniert, reproduziert sich, hält seine Muster aufrecht.
+Rückkopplungen sind geschlossen, Energieflüsse eingespielt, kulturelle Muster stabil.
+Stabilität ist notwendig – aber sie erzeugt auch Blindheit.
+Instabilität
+Die Umwelt verändert sich schneller als die Strukturen.
+Rückkopplungen kippen, Energieflüsse werden unzuverlässig, kulturelle Muster verlieren Resonanz.
+Instabilität ist kein Fehler, sondern ein Signal: Das System erreicht seine Grenzen.
+Emergenz
+In der Instabilität entstehen neue Muster.
+Vielfalt, Verbindung und offene Rückkopplungen erzeugen neue Formen von Intelligenz.
+Emergenz ist der kreative Moment des Systems.
+Neue Ordnung
+Das emergente Neue stabilisiert sich.
+Es bildet eigene Rückkopplungen, neue Energieflüsse, neue kulturelle Muster, neue Institutionen.
+Die neue Ordnung ist stabiler und anpassungsfähiger als die alte.
+
+Warum dieser Zyklus unvermeidlich ist
+Komplexe Systeme können nicht dauerhaft stabil bleiben.
+Sie müssen sich erneuern, weil:
+• 	ihre Umwelt sich verändert
+• 	ihre Energieflüsse sich verschieben
+• 	ihre kulturellen Muster altern
+• 	ihre Institutionen träge werden
+Der Zyklus ist kein Problem, sondern der Mechanismus, durch den Systeme lebendig bleiben.
+
+Die tiefe Logik des Zyklus
+• 	Stabilität ermöglicht Funktion
+• 	Instabilität ermöglicht Lernen
+• 	Emergenz ermöglicht Innovation
+• 	Neue Ordnung ermöglicht Zukunftsfähigkeit
+Keiner dieser Zustände ist „besser“ oder „schlechter“.
+Sie sind Phasen eines lebendigen Systems.
+
+Der entscheidende Punkt
+Zukunft entsteht nicht am Ende des Zyklus, sondern im Übergang:
+• 	zwischen Stabilität und Instabilität
+• 	zwischen Instabilität und Emergenz
+• 	zwischen Emergenz und neuer Ordnung
+Diese Übergänge sind die Orte maximaler Formbarkeit.
