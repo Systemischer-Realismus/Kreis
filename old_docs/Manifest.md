@@ -1,0 +1,1 @@
+<contents of the original Manifest.md file>
