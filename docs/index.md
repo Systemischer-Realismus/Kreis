@@ -4,23 +4,21 @@ Diese Startseite führt in die Struktur der Theorie ein. Die Kapitel sind entlan
 
 ## Orientierung und Einstieg
 
-- Vorwort — persönliche und konzeptionelle Rahmung, die den Ursprung der Fragestellung sichtbar macht  
-- Einleitung — thematische Hinführung, Problemstellung und Motivation der Theorie
+- Vorwort – persönliche und konzeptionelle Rahmung, die den Ursprung der Fragestellung sichtbar macht
+- Einleitung – thematische Hinführung, Problemstellung und Motivation der Theorie
 
 ## Historische und systemische Einbettung
 
-- Historie — Entwicklungslinien, gesellschaftliche Kontexte und theoretische Vorläufer, aus denen die Theorie hervorgegangen ist
+- Historie – Entwicklungslinien, gesellschaftliche Kontexte und theoretische Vorläufer, aus denen die Theorie hervorgegangen ist
 
 ## Zentrales Modell
 
-- Modell — formale Darstellung der dynamischen Reproduktion der Systemrealitaet: Energieflüsse, Kopplungen, Stabilisierung, Resonanz und zyklische Erneuerung
+- Modell – formale Darstellung der dynamischen Reproduktion der Systemrealitaet: Energieflüsse, Kopplungen, Stabilisierung, Resonanz und zyklische Erneuerung
 
 ## Normative und programmatische Ableitung
 
-- Manifest — normative Leitgedanken, die aus der Theorie folgen: Verantwortung, Gestaltung, Resonanz, Stabilisierung und Erneuerung
-- Vorwort – persönliche und konzeptionelle Rahmung …
-- Einleitung – thematische Hinführung, Problemstellung und Motivation der Theorie
+- Manifest – normative Leitgedanken, die aus der Theorie folgen: Verantwortung, Gestaltung, Resonanz, Stabilisierung und Erneuerung
 
-- ## Ergänzende Materialien
+## Ergänzende Materialien
 
 - Platzhalter – technische oder strukturelle Elemente für spätere Erweiterungen
