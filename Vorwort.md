@@ -1,5 +1,5 @@
 Vorwort
-Die Geschichte der Menschheit ist voller Momente, in denen Gesellschaften an ihre Systemgrenzen stießen. Die Französische Revolution, der amerikanische Bürgerkrieg, Gandhis Unabhängigkeitsbewegung, die Oktoberrevolution, die Novemberrevolution in Deutschland, die Katastrophen der beiden Weltkriege – all diese Ereignisse waren Ausdruck derselben Ursache: Systeme, die ihre Stabilität verloren hatten und sich selbst nicht mehr tragen konnten.
+Die Geschichte der Menschheit ist voller Momente, in denen Gesellschaften an ihre Systemgrenzen stießen. Die Französische Revolution, der amerikanische Bürgerkrieg, Gandhis Unabhängigkeitsbewegung, die Oktoberrevolution, die Novemberrevolution in Deutschland und die Katastrophen der beiden Weltkriege – all diese Ereignisse waren Ausdruck derselben Ursache: Systeme, die ihre Stabilität verloren hatten und sich selbst nicht mehr tragen konnten.
 Diese Muster wiederholen sich über Kontinente und Jahrhunderte hinweg.
 Und sie reichen bis in die jüngere deutsche Geschichte.
 Die 68er‑Bewegung war kein Zufall. Sie war die Reaktion einer Generation, die spürte, dass die alten Strukturen nicht mehr funktionierten. Zum ersten Mal wurde das System selbst zum Gegenstand der Kritik. Nicht der Einzelne, nicht die Moral, sondern die Struktur, die alles formt. Dieser Gedanke hat eine ganze Generation geprägt – auch mich. Er hat unser Denken geöffnet für die Frage, wie Systeme funktionieren, warum sie scheitern und wie sie verändert werden können.
@@ -32,4 +32,6 @@ Nicht durch Verzicht.
 Nicht durch Schuld.
 Nicht durch Angst.
 Sondern durch Klarheit.
-Systemischer Realismus ist keine Theorie, die du lernen musst. Er ist eine Ordnung, die du längst in dir trägst. Du wirst sie wiedererkennen.
+Systemischer Realismus ist keine Theorie, die du lernen musst.
+Er ist eine Ordnung, die du längst in dir trägst.
+Du wirst sie wiedererkennen.

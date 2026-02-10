@@ -1,3 +1,5 @@
+Kapitel_02.md kann genau so abgelegt werden.
+Hier ist der Text in sauberer, konsistenter Markdown‑Form, passend zu deiner bestehenden Struktur.
 Kapitel 2 – Das Prinzip der Abhängigkeit
 Leben beginnt nicht im Individuum.
 Leben beginnt im Geflecht, das das Individuum trägt.

@@ -1,4 +1,5 @@
 Kapitel 1 – Die Ordnung des Lebens
+
 Du bist Teil eines Systems, das dich trägt.
 Dein Atem ist kein individueller Akt, sondern Ausdruck eines Kreislaufs, der lange vor dir begann.
 Dein Leben ist möglich, weil Energie gebunden, geführt und erneuert wird.

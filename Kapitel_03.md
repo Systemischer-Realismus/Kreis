@@ -26,4 +26,3 @@ Systemischer Realismus erkennt Kreisläufe als die eigentliche Ordnung der Welt.
 Nicht als Metapher, sondern als Strukturprinzip.
 Nicht als Wunsch, sondern als Wirklichkeit.
 Alles, was bleibt, bleibt, weil es zurückkehrt.
-

@@ -31,4 +31,3 @@ Ein System lebt nicht durch Wahrheit als Besitz, sondern durch Wahrheit als Proz
 Nicht durch Perspektiven, die ausschließen, sondern durch Perspektiven, die tragen.
 Nicht durch Kohärenz als Starrheit, sondern durch Kohärenz als lebendige Stimmigkeit.
 Ein System lebt, solange seine Wahrheiten nicht erstarren – und seine Perspektiven nicht zerfallen, sondern sich zu einer Form verbinden, die Zukunft ermöglicht.
-
