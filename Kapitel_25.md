@@ -1,4 +1,4 @@
-Kapitel 25 – Ordnung, Struktur und systemische Form
+**Kapitel 25 – Ordnung, Struktur und systemische Form**
 Ordnung ist nicht die Abwesenheit von Chaos.
 Ordnung ist das Muster, das entsteht, wenn Kräfte sich so verteilen, dass ein System bestehen kann.
 Sie ist kein Zustand, sondern ein Prozess:

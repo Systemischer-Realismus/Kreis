@@ -1,4 +1,4 @@
-Kapitel 33 – Komplexität, Überlastung und systemische Klarheit
+**Kapitel 33 – Komplexität, Überlastung und systemische Klarheit**
 Komplexität ist der natürliche Zustand lebender Systeme.
 Sie entsteht, wenn viele Elemente gleichzeitig wirken, wenn Rückkopplungen sich verschränken, wenn Muster ineinandergreifen.
 Komplexität ist kein Problem – sie ist die Voraussetzung für Anpassungsfähigkeit, Vielfalt und Entwicklung.

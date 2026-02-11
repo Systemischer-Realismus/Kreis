@@ -1,4 +1,4 @@
-Kapitel 14 – Identität, Muster und Selbstbeschreibung
+**Kapitel 14 – Identität, Muster und Selbstbeschreibung**
 Identität ist kein innerer Kern, der unverändert bleibt.
 Identität ist das Muster, das ein System durch seine Beziehungen bildet.
 Sie entsteht aus Wiederholung, aus Wirkung, aus Rückführung.

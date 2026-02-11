@@ -1,4 +1,4 @@
-Kapitel 28 – Pfadabhängigkeit, Trägheit und systemische Konsequenz
+**Kapitel 28 – Pfadabhängigkeit, Trägheit und systemische Konsequenz**
 Pfadabhängigkeit entsteht, wenn vergangene Entscheidungen die gegenwärtigen Möglichkeiten formen.
 Nicht weil das System sich erinnert, sondern weil jede Struktur Spuren hinterlässt.
 Ein System kann nur dort weitergehen, wo es bereits gegangen ist – seine Geschichte begrenzt seine Optionen.

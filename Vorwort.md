@@ -1,4 +1,4 @@
-Vorwort
+**Vorwort**
 Die Geschichte der Menschheit ist voller Momente, in denen Gesellschaften an ihre Systemgrenzen stießen. Die Französische Revolution, der amerikanische Bürgerkrieg, Gandhis Unabhängigkeitsbewegung, die Oktoberrevolution, die Novemberrevolution in Deutschland und die Katastrophen der beiden Weltkriege – all diese Ereignisse waren Ausdruck derselben Ursache: Systeme, die ihre Stabilität verloren hatten und sich selbst nicht mehr tragen konnten.
 Diese Muster wiederholen sich über Kontinente und Jahrhunderte hinweg.
 Und sie reichen bis in die jüngere deutsche Geschichte.

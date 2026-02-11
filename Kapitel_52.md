@@ -1,4 +1,4 @@
-Kapitel 52 – Struktur, Form und systemische Gestalt
+**Kapitel 52 – Struktur, Form und systemische Gestalt**
 Struktur ist das Muster der Beziehungen, durch das ein System seine Prozesse organisiert.
 Sie bestimmt, wie Energie fließt, wie Rückkopplungen wirken, wie Entscheidungen möglich werden.
 Struktur ist nicht das starre Gerüst eines Systems, sondern seine innere Architektur:

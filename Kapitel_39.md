@@ -1,4 +1,4 @@
-Kapitel 39 – Vertrauen, Erwartung und systemische Verlässlichkeit
+**Kapitel 39 – Vertrauen, Erwartung und systemische Verlässlichkeit**
 Vertrauen ist die Entscheidung eines Systems, sich auf Wirkungen zu verlassen, die es nicht vollständig kontrollieren kann.
 Es entsteht, wenn vergangene Erfahrungen genügend Stabilität erzeugt haben, um zukünftige Unsicherheiten tragfähig erscheinen zu lassen.
 Vertrauen ist kein Gefühl, sondern eine strukturelle Wette:

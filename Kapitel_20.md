@@ -1,4 +1,4 @@
-Kapitel 20 – Lernen, Feedback und strukturelle Intelligenz
+**Kapitel 20 – Lernen, Feedback und strukturelle Intelligenz**
 Lernen ist die Fähigkeit eines Systems, seine eigenen Muster zu verändern.
 Nicht durch Zufall, sondern durch Rückmeldung.
 Ein System lernt, wenn es Unterschiede zwischen Erwartung und Wirkung erkennt – und diese Unterschiede in Struktur übersetzt.

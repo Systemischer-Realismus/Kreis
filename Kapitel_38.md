@@ -1,4 +1,4 @@
-Kapitel 38 – Grenzen, Schwellen und systemische Übergänge
+**Kapitel 38 – Grenzen, Schwellen und systemische Übergänge**
 Grenzen sind die Linien, an denen ein System sich selbst von seiner Umwelt unterscheidet.
 Sie sind keine Mauern, sondern Filter.
 Grenzen bestimmen, was ein System aufnehmen kann, ohne seine Form zu verlieren – und was es abweisen muss, um stabil zu bleiben.

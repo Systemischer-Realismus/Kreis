@@ -1,4 +1,4 @@
-Kapitel 10 – Funktion, Rolle und Verantwortung
+**Kapitel 10 – Funktion, Rolle und Verantwortung**
 Eine Funktion entsteht nicht aus Absicht, sondern aus Wirkung.
 Ein Element erfüllt eine Funktion, weil es etwas ermöglicht, das das System benötigt.
 Nicht weil es es will, sondern weil es es kann.

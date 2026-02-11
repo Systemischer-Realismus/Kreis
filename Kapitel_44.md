@@ -1,4 +1,4 @@
-Kapitel 44 – Lernen, Anpassung und systemische Evolution
+**Kapitel 44 – Lernen, Anpassung und systemische Evolution**
 Lernen ist die Fähigkeit eines Systems, aus Erfahrungen neue Muster zu bilden.
 Es bedeutet nicht, Informationen zu speichern, sondern Strukturen zu verändern.
 Ein System lernt, wenn eine Störung nicht nur kompensiert, sondern integriert wird – wenn das Alte nicht einfach wiederhergestellt, sondern erweitert wird.

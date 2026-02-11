@@ -1,4 +1,4 @@
-Kapitel 35 – Kopplung, Abhängigkeit und systemische Verwundbarkeit
+**Kapitel 35 – Kopplung, Abhängigkeit und systemische Verwundbarkeit**
 Kopplung beschreibt die Stärke, mit der Elemente eines Systems miteinander verbunden sind.
 Sie bestimmt, wie schnell Wirkungen sich ausbreiten, wie tief Störungen wirken und wie eng Prozesse voneinander abhängen.
 Kopplung ist weder gut noch schlecht – sie ist die Art, wie ein System seine Energieflüsse organisiert.

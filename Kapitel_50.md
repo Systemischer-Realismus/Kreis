@@ -1,4 +1,4 @@
-Kapitel 50 – Freiheit, Möglichkeit und systemische Offenheit
+**Kapitel 50 – Freiheit, Möglichkeit und systemische Offenheit**
 Freiheit ist die Fähigkeit eines Systems, mehr Möglichkeiten zu haben, als es im Moment nutzt.
 Sie entsteht nicht aus Grenzenlosigkeit, sondern aus der Präsenz tragfähiger Alternativen.
 Ein System ist frei, wenn es wählen kann, ohne seine Stabilität zu verlieren.

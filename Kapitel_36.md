@@ -1,4 +1,4 @@
-Kapitel 36 – Redundanz, Alternativen und systemische Robustheit
+**Kapitel 36 – Redundanz, Alternativen und systemische Robustheit**
 Redundanz ist die Fähigkeit eines Systems, eine Funktion auf mehreren Wegen erfüllen zu können.
 Sie ist kein Zeichen von Ineffizienz, sondern von Weitsicht.
 Redundanz bedeutet, dass der Ausfall eines Elements nicht den Ausfall des Ganzen bedeutet.

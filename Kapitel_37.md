@@ -1,4 +1,4 @@
-Kapitel 37 – Integration, Kohärenzbildung und systemische Ganzheit
+**Kapitel 37 – Integration, Kohärenzbildung und systemische Ganzheit**
 Integration ist der Prozess, durch den ein System seine vielfältigen Elemente, Muster und Rückkopplungen zu einer tragfähigen Einheit verbindet.
 Sie entsteht nicht durch Vereinheitlichung, sondern durch Anschlussfähigkeit.
 Ein System integriert, wenn Unterschiede nicht verschwinden, sondern miteinander wirken können.

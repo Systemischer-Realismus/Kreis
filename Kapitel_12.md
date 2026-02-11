@@ -1,4 +1,4 @@
-Kapitel 12 – Information, Wahrnehmung und Orientierung
+**Kapitel 12 – Information, Wahrnehmung und Orientierung**
 Information ist kein Besitz, sondern ein Fluss.
 Sie entsteht, wenn ein System Unterschiede wahrnimmt, verarbeitet und in Wirkung übersetzt.
 Information ist nicht das, was vorhanden ist, sondern das, was ein System verarbeiten kann.

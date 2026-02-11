@@ -1,4 +1,4 @@
-Kapitel 43 – Kooperation, Konkurrenz und systemische Balance
+**Kapitel 43 – Kooperation, Konkurrenz und systemische Balance**
 Kooperation ist die Fähigkeit eines Systems, gemeinsame Wirkungen zu erzeugen, die kein Element allein hervorbringen könnte.
 Sie entsteht, wenn Interessen sich überlappen, wenn Muster sich ergänzen, wenn Energieflüsse sich gegenseitig verstärken.
 Kooperation ist kein Ideal, sondern eine funktionale Strategie:

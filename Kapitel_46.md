@@ -1,4 +1,4 @@
-Kapitel 46 – Energie, Aufwand und systemische Effizienz
+**Kapitel 46 – Energie, Aufwand und systemische Effizienz**
 Energie ist die grundlegende Ressource jedes Systems.
 Sie beschreibt nicht nur physische Kraft, sondern jede Form von Wirksamkeit: Aufmerksamkeit, Zeit, Vertrauen, Bedeutung, Struktur.
 Ein System lebt, indem es Energie bindet, um seine Prozesse zu erhalten.

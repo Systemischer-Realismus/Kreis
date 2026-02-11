@@ -1,4 +1,4 @@
-Kapitel 30 – Identität, Selbstbeschreibung und systemische Wirklichkeit
+**Kapitel 30 – Identität, Selbstbeschreibung und systemische Wirklichkeit**
 Identität ist die Erzählung, die ein System über sich selbst erzeugt.
 Nicht als Fiktion, sondern als operative Orientierung.
 Ein System braucht eine Vorstellung davon, was es ist, um entscheiden zu können, was es tut.

@@ -1,4 +1,4 @@
-Kapitel 11 – Zentrum, Peripherie und Wirkungstiefe
+**Kapitel 11 – Zentrum, Peripherie und Wirkungstiefe**
 Jedes System besitzt ein Zentrum.
 Nicht als geografischen Punkt, sondern als energetischen Kern:
 den Ort, an dem Rückführung, Stabilisierung und Reproduktion am stärksten gebündelt sind.

@@ -1,4 +1,4 @@
-Manifest des Systemischen Realismus
+**Manifest des Systemischen Realismus**
 Präambel
 Wir leben auf einem Planeten, der kein Besitz ist, sondern ein System.
 Ein System aus Energieflüssen, Kreisläufen und selbstorganisierenden Prozessen.
@@ -32,5 +32,3 @@ Ohne Rückführung entsteht Entropie, Instabilität und der Verlust der Grundlag
 Artikel 10 – Geschichte folgt Systemlogiken
 Wiederkehrende Krisen entstehen, wenn Gesellschaften die strukturellen Ursachen vergangener Zusammenbrüche ignorieren.
 Aus der Geschichte zu lernen bedeutet, Systemgrenzen zu erkennen und ihre Überschreitung zu vermeiden.
-
-Wenn du möchtest, kann ich das Manifest auch in eine Version für GitBook, eine kompakte Kurzfassung, oder eine ästhetisch strukturierte Druckfassung bringen.

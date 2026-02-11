@@ -1,4 +1,4 @@
-Kapitel 21 – Grenzen, Übergänge und Systemwechsel
+**Kapitel 21 – Grenzen, Übergänge und Systemwechsel**
 Eine Grenze ist nicht nur eine Linie, die trennt.
 Sie ist ein Zustand, in dem ein System seine eigene Form spürt.
 Grenzen zeigen, wo die bisherige Struktur trägt – und wo sie an ihre Belastungsgrenze kommt.

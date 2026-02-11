@@ -1,4 +1,4 @@
-Kapitel 7 – Elemente, Beziehungen und Wirkung
+**Kapitel 7 – Elemente, Beziehungen und Wirkung**
 Ein Element existiert nie für sich allein.
 Es gewinnt Bedeutung erst durch die Beziehungen, in die es eingebettet ist.
 Ein einzelnes Teilchen, ein Organismus, ein Mensch, eine Institution – sie alle wirken nur, weil andere wirken.

@@ -1,4 +1,4 @@
-Kapitel 55 – Vertrauen, Verlässlichkeit und systemische Bindung
+**Kapitel 55 – Vertrauen, Verlässlichkeit und systemische Bindung**
 Vertrauen ist die Entscheidung eines Systems, Unsicherheit zu akzeptieren, um Anschlussfähigkeit zu ermöglichen.
 Es entsteht, wenn ein System darauf setzt, dass ein anderes System seine erwarteten Muster nicht bricht.
 Vertrauen ist kein Gefühl, sondern eine riskante Vorleistung:

@@ -1,4 +1,4 @@
-Kapitel 56 – Bedeutung, Sinn und systemische Orientierungstiefe
+**Kapitel 56 – Bedeutung, Sinn und systemische Orientierungstiefe**
 Bedeutung ist die Weise, in der ein System Unterschiede wertet.
 Sie entsteht, wenn ein Ereignis nicht nur registriert, sondern in die eigene Struktur eingeordnet wird.
 Bedeutung ist kein objektives Merkmal der Welt, sondern ein relationaler Effekt:

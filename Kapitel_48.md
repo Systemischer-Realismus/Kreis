@@ -1,4 +1,4 @@
-Kapitel 48 – Rhythmus, Zyklen und systemische Zeitlichkeit
+**Kapitel 48 – Rhythmus, Zyklen und systemische Zeitlichkeit**
 Rhythmus ist die zeitliche Struktur eines Systems.
 Er entsteht aus wiederkehrenden Mustern, aus Sequenzen von Spannung und Entlastung, aus dem Wechsel von Aktivität und Ruhe.
 Rhythmus ist nicht bloß Wiederholung, sondern die Art, wie ein System seine Energie über Zeit verteilt.

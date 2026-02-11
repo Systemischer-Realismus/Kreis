@@ -1,4 +1,4 @@
-Kapitel 45 – Stabilität, Fragilität und systemische Resilienzgrenzen
+**Kapitel 45 – Stabilität, Fragilität und systemische Resilienzgrenzen**
 Stabilität ist die Fähigkeit eines Systems, seine Form über Zeit hinweg zu bewahren.
 Sie entsteht, wenn Rückkopplungen, Energieflüsse und Strukturen so aufeinander abgestimmt sind, dass Störungen aufgenommen werden können, ohne das Ganze zu gefährden.
 Stabilität ist kein Zustand der Ruhe, sondern ein dynamisches Gleichgewicht:

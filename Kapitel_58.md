@@ -1,4 +1,4 @@
-Kapitel 58 – Verantwortung, Antwortfähigkeit und systemische Integrität
+**Kapitel 58 – Verantwortung, Antwortfähigkeit und systemische Integrität**
 Verantwortung ist die Fähigkeit eines Systems, die Folgen seines Handelns in seine eigene Struktur einzubeziehen.
 Sie entsteht, wenn ein System erkennt, dass jede Wirkung eine Rückwirkung erzeugt – und dass Stabilität nicht nur aus dem entsteht, was es tut, sondern auch aus dem, was es unterlässt.
 Verantwortung ist kein moralischer Begriff, sondern ein struktureller:

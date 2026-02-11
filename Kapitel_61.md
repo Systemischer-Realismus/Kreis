@@ -1,4 +1,4 @@
-Kapitel 61 – Wahrheit, Perspektive und systemische Kohärenz
+**Kapitel 61 – Wahrheit, Perspektive und systemische Kohärenz**
 Wahrheit ist die Weise, in der ein System seine Umwelt so beschreibt, dass seine eigenen Strukturen tragfähig bleiben.
 Sie ist kein objektiver Zustand, sondern ein funktionaler:
 Wahr ist, was ein System stabilisiert, Orientierung ermöglicht und Anschlussfähigkeit schafft.

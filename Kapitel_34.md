@@ -1,4 +1,4 @@
-Kapitel 34 – Emergenz, Selbstorganisation und systemische Intelligenz
+**Kapitel 34 – Emergenz, Selbstorganisation und systemische Intelligenz**
 Emergenz ist das Auftreten von Mustern, die sich nicht aus den Eigenschaften einzelner Elemente erklären lassen.
 Sie entsteht, wenn viele kleine Wirkungen sich so verschränken, dass etwas Neues entsteht – etwas, das größer ist als die Summe seiner Teile.
 Emergenz ist die kreative Dimension eines Systems:

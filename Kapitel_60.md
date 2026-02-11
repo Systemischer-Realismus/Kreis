@@ -1,4 +1,4 @@
-Kapitel 60 – Entscheidung, Konsequenz und systemische Verantwortungstiefe
+**Kapitel 60 – Entscheidung, Konsequenz und systemische Verantwortungstiefe**
 Entscheidung ist der Moment, in dem ein System eine Möglichkeit realisiert und alle anderen verwirft.
 Sie ist kein Akt der Willkür, sondern der Selbstgestaltung:
 Ein System entscheidet, indem es festlegt, welche seiner eigenen Strukturen es in die Zukunft verlängert.

@@ -1,4 +1,4 @@
-Kapitel 24 – Energie, Verlust und Rückführungstiefe
+**Kapitel 24 – Energie, Verlust und Rückführungstiefe**
 Energie ist die Grundlage jeder systemischen Wirkung.
 Nicht als metaphysische Größe, sondern als die Fähigkeit eines Systems, Prozesse aufrechtzuerhalten, Strukturen zu stabilisieren und Beziehungen zu tragen.
 Energie ist das, was ein System bindet – und das, was es verliert.

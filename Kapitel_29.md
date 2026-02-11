@@ -1,4 +1,4 @@
-Kapitel 29 – Skalierung, Verdichtung und systemische Tragfähigkeit
+**Kapitel 29 – Skalierung, Verdichtung und systemische Tragfähigkeit**
 Skalierung beschreibt, wie ein System wächst.
 Nicht in Größe, sondern in Wirkung.
 Ein System skaliert, wenn seine Strukturen mehr Energie binden können, ohne zu zerbrechen.

@@ -1,4 +1,4 @@
-Kapitel 22 – Stabilisierung, Rückkopplung und Selbsterhaltung
+**Kapitel 22 – Stabilisierung, Rückkopplung und Selbsterhaltung**
 Stabilisierung ist der Prozess, durch den ein System seine Form trotz innerer und äußerer Schwankungen erhält.
 Sie entsteht nicht durch starre Kontrolle, sondern durch die Fähigkeit, Abweichungen zu erkennen und auszugleichen.
 Ein System stabilisiert sich, indem es seine eigenen Prozesse so organisiert, dass Verluste begrenzt und Rückführungen gesichert bleiben.

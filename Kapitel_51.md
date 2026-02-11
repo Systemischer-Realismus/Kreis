@@ -1,4 +1,4 @@
-Kapitel 51 – Resonanz, Rückkopplung und systemische Verbundenheit
+**Kapitel 51 – Resonanz, Rückkopplung und systemische Verbundenheit**
 Resonanz ist die Fähigkeit eines Systems, auf Wirkungen nicht nur zu reagieren, sondern sich von ihnen berühren zu lassen.
 Sie entsteht, wenn ein Impuls nicht verpufft, sondern eine innere Schwingung auslöst – eine Veränderung, die das System nicht zerstört, sondern vertieft.
 Resonanz ist kein Einklang, sondern ein lebendiger Dialog zwischen Innen und Außen.

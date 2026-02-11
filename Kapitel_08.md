@@ -1,4 +1,4 @@
-Kapitel 8 – Stabilität, Fluss und Gleichgewicht
+**Kapitel 8 – Stabilität, Fluss und Gleichgewicht**
 Stabilität ist kein Zustand der Ruhe.
 Stabilität ist ein dynamisches Gleichgewicht, das sich aus ununterbrochenen Flüssen ergibt.
 Ein System bleibt stabil, weil es sich bewegt, nicht weil es stillsteht.

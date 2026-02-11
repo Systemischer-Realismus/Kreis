@@ -1,5 +1,5 @@
-Kapitel 15 – Konflikt, Spannung und Transformation
-Konflikt ist kein Fehler im System.
+**Kapitel 15 – Konflikt, Spannung und Transformation**
+Konflikt ist kein Fehler im System.**
 Konflikt ist ein Ausdruck von Spannung – ein Zeichen dafür, dass Kräfte wirken, dass Bedürfnisse aufeinandertreffen, dass Strukturen an ihre Grenzen stoßen.
 Konflikt entsteht, wenn Elemente unterschiedliche Wirkungen erzeugen, die nicht mehr harmonieren.
 Er zeigt, wo ein System sich verändern muss, um stabil zu bleiben.

@@ -1,4 +1,4 @@
-Kapitel 4 – Energie, Mehrwert und Verlust
+**Kapitel 4 – Energie, Mehrwert und Verlust**
 Energie ist die Grundlage jedes Systems.
 Nicht als abstrakte Größe, sondern als gebundene Fähigkeit, Arbeit zu leisten, Strukturen zu erhalten und Reproduktion zu ermöglichen.
 Ohne Energie keine Bewegung.

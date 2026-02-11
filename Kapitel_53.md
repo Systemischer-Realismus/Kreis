@@ -1,4 +1,4 @@
-Kapitel 53 – Komplexität, Reduktion und systemische Klarheit
+**Kapitel 53 – Komplexität, Reduktion und systemische Klarheit**
 Komplexität ist die Fülle der möglichen Wirkungen, die ein System verarbeiten muss.
 Sie entsteht aus Vielfalt, Wechselwirkung und Unvorhersehbarkeit.
 Komplexität ist kein Problem, sondern die Grundbedingung lebender Systeme:

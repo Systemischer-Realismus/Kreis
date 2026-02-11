@@ -1,4 +1,4 @@
-Kapitel 3 – Die Logik der Kreisläufe
+**Kapitel 3 – Die Logik der Kreisläufe**
 Ein Kreislauf ist mehr als eine Bewegung im Kreis.
 Ein Kreislauf ist die Fähigkeit eines Systems, Verluste zu schließen und Energie zurückzuführen.
 Alles, was stabil bleibt, bleibt stabil, weil es seine eigenen Verluste kompensiert.

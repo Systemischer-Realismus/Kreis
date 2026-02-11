@@ -1,4 +1,4 @@
-Kapitel 32 – Differenz, Vielfalt und systemische Resilienz
+**Kapitel 32 – Differenz, Vielfalt und systemische Resilienz**
 Differenz ist die Grundlage jeder lebendigen Ordnung.
 Ein System besteht nicht aus identischen Elementen, sondern aus unterschiedlichen Wirkungen, Perspektiven und Funktionen.
 Differenz erzeugt die Spannungen, aus denen Energie fließt – und die Vielfalt, aus der neue Muster entstehen können.

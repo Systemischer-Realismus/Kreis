@@ -1,4 +1,4 @@
-Kapitel 59 – Konfliktfähigkeit, Ambiguitätstoleranz und systemische Reife
+**Kapitel 59 – Konfliktfähigkeit, Ambiguitätstoleranz und systemische Reife**
 Konfliktfähigkeit ist die Kompetenz eines Systems, Spannungen auszuhalten, ohne in Abwehr oder Eskalation zu verfallen.
 Sie entsteht, wenn ein System Konflikte nicht als Bedrohung seiner Identität deutet, sondern als Hinweis auf notwendige Klärung.
 Konfliktfähigkeit bedeutet nicht Streitlust, sondern die Fähigkeit, Differenz zu integrieren, ohne die eigene Form zu verlieren.

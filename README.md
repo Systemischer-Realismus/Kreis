@@ -1,4 +1,4 @@
-Inhalt
+**Inhalt**
 Einleitung
 Die Dynamische Reproduktionstheorie der Systemrealität versteht die Welt als ein Geschehen, das sich selbst hervorbringt. Systeme entstehen nicht aus dem Nichts, und sie bleiben nicht bestehen, weil sie unveränderlich wären. Sie bestehen, weil sie sich erneuern. Sie erneuern sich, weil Energie fließt. Und sie verändern sich, weil jede Form von Stabilität nur im Austausch mit ihrer Umgebung möglich ist.
 In dieser Perspektive wird die Wirklichkeit zu einem lebendigen Zusammenhang. Kosmische Energieüberschüsse erzeugen planetare Kreisläufe. Planetare Kreisläufe erzeugen Lebensprozesse. Lebensprozesse erzeugen Kultur, Bedeutung und Geschichte. Jede Ebene ist Ausdruck derselben Logik, und jede Ebene bringt neue Formen von Ordnung hervor, die sich wiederum reproduzieren und transformieren.

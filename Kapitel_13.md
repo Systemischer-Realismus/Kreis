@@ -1,4 +1,4 @@
-Kapitel 13 – Zeit, Rhythmus und Veränderung
+**Kapitel 13 – Zeit, Rhythmus und Veränderung**
 Zeit ist kein Hintergrund, vor dem Systeme existieren.
 Zeit ist der Prozess, durch den Systeme sich verändern.
 Sie wirkt nicht von außen, sondern durch die Abläufe, die ein System trägt.

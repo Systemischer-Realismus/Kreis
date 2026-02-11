@@ -1,4 +1,4 @@
-Kapitel 40 – Kommunikation, Bedeutung und systemische Verständigung
+**Kapitel 40 – Kommunikation, Bedeutung und systemische Verständigung**
 Kommunikation ist der Prozess, durch den ein System Wirkungen zwischen seinen Elementen koordiniert.
 Sie ist nicht der Austausch von Informationen, sondern die Erzeugung von Bedeutung.
 Ein System kommuniziert, wenn es Unterschiede verarbeitet – wenn ein Signal nicht nur gesendet, sondern auch verstanden wird.

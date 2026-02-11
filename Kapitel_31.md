@@ -1,4 +1,4 @@
-Kapitel 31 – Zeit, Rhythmus und systemische Dauer
+**Kapitel 31 – Zeit, Rhythmus und systemische Dauer**
 Zeit ist nicht der äußere Takt, der ein System antreibt.
 Zeit ist die innere Geschwindigkeit, mit der ein System seine Prozesse vollzieht.
 Jedes System hat seinen eigenen Rhythmus:

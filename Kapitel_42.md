@@ -1,4 +1,4 @@
-Kapitel 42 – Konflikt, Spannung und systemische Transformation
+**Kapitel 42 – Konflikt, Spannung und systemische Transformation**
 Konflikt ist nicht der Zusammenstoß von Gegensätzen, sondern das Sichtbarwerden unvereinbarer Wirkungen innerhalb eines Systems.
 Konflikt zeigt, wo Muster nicht mehr tragen, wo Erwartungen kollidieren, wo Strukturen ihre Anschlussfähigkeit verlieren.
 Er ist kein Fehler, sondern ein Diagnoseinstrument:

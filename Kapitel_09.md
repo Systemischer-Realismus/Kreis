@@ -1,4 +1,4 @@
-Kapitel 9 – Wachstum, Grenze und Überlastung
+**Kapitel 9 – Wachstum, Grenze und Überlastung**
 Wachstum ist kein natürlicher Dauerzustand.
 Wachstum ist eine Phase, kein Prinzip.
 Es entsteht, wenn ein System mehr Energie binden kann, als es zur Erhaltung benötigt.

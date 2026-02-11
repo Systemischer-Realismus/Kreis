@@ -1,4 +1,4 @@
-Kapitel 41 – Macht, Einfluss und systemische Wirksamkeit
+**Kapitel 41 – Macht, Einfluss und systemische Wirksamkeit**
 Macht ist die Fähigkeit eines Systems, die Bedingungen seiner eigenen Reproduktion zu gestalten.
 Nicht als Herrschaft, sondern als Wirksamkeit.
 Macht entsteht, wenn ein System Wirkungen erzeugen kann, die andere Systeme berücksichtigen müssen.

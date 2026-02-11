@@ -1,4 +1,4 @@
-Kapitel 26 – Symmetrie, Asymmetrie und systemische Balance
+**Kapitel 26 – Symmetrie, Asymmetrie und systemische Balance**
 Symmetrie ist der Zustand, in dem Kräfte sich ausgleichen.
 Nicht im Sinne von Gleichheit, sondern im Sinne von Gegenseitigkeit.
 Symmetrie entsteht, wenn Wirkung und Gegenwirkung in einem Verhältnis stehen, das Stabilität ermöglicht.

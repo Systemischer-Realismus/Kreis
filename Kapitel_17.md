@@ -1,4 +1,4 @@
-Kapitel 17 – Komplexität, Emergenz und Unvorhersehbarkeit
+**Kapitel 17 – Komplexität, Emergenz und Unvorhersehbarkeit**
 Komplexität entsteht, wenn viele Elemente in vielen Beziehungen stehen.
 Nicht die Anzahl der Teile macht ein System komplex, sondern die Dichte und Vielfalt ihrer Wechselwirkungen.
 Komplexität bedeutet, dass kein Element allein verstanden werden kann – nur das Muster seiner Beziehungen offenbart seine Wirkung.

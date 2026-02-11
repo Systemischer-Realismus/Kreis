@@ -1,4 +1,4 @@
-Kapitel 23 – Umwelt, Einbettung und Resonanz
+**Kapitel 23 – Umwelt, Einbettung und Resonanz**
 Ein System existiert nie isoliert.
 Es ist immer in eine Umwelt eingebettet, die seine Möglichkeiten begrenzt, seine Stabilität beeinflusst und seine Entwicklung prägt.
 Umwelt ist nicht Hintergrund, sondern Mitspieler.

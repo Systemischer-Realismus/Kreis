@@ -1,4 +1,4 @@
-Kapitel 19 – Ressourcen, Knappheit und Priorisierung
+**Kapitel 19 – Ressourcen, Knappheit und Priorisierung**
 Ressourcen sind die gebundene Energie, die ein System für seine Reproduktion benötigt.
 Sie sind nicht unendlich, nicht beliebig austauschbar und nicht frei verfügbar.
 Ressourcen sind immer begrenzt – durch Zeit, durch Struktur, durch Umwelt, durch die Fähigkeit des Systems, sie zu binden und zurückzuführen.

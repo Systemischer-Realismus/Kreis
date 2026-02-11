@@ -1,4 +1,4 @@
-Kapitel 47 – Orientierung, Navigation und systemische Handlungsfähigkeit
+**Kapitel 47 – Orientierung, Navigation und systemische Handlungsfähigkeit**
 Orientierung ist die Fähigkeit eines Systems, seine Position in einem komplexen Umfeld zu bestimmen.
 Sie entsteht nicht durch vollständiges Wissen, sondern durch relevante Unterscheidungen.
 Ein System ist orientiert, wenn es weiß, was für seine Stabilität bedeutsam ist – und was nicht.

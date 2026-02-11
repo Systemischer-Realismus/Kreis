@@ -1,4 +1,4 @@
-Kapitel 5 – Struktur, Form und Grenze
+**Kapitel 5 – Struktur, Form und Grenze**
 Jedes System besitzt eine Form.
 Nicht als äußere Hülle, sondern als innere Ordnung, die bestimmt, wie Energie fließt, wie Elemente interagieren und wie Reproduktion möglich wird.
 Form ist kein ästhetisches Merkmal.

@@ -1,4 +1,4 @@
-Kapitel 18 – Vertrauen, Kooperation und Systemkohärenz
+**Kapitel 18 – Vertrauen, Kooperation und Systemkohärenz**
 Vertrauen ist die unsichtbare Energie, die Beziehungen trägt.
 Es entsteht, wenn Elemente sich aufeinander verlassen können – nicht weil sie identisch sind, sondern weil ihre Wirkungen berechenbar bleiben.
 Vertrauen ist kein Gefühl, sondern eine strukturelle Stabilität:

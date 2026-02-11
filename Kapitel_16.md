@@ -1,4 +1,4 @@
-Kapitel 16 – Macht, Einfluss und Systemgrenzen
+**Kapitel 16 – Macht, Einfluss und Systemgrenzen**
 Macht ist keine Eigenschaft eines Elements.
 Macht ist die Fähigkeit eines Systems, Energieflüsse zu lenken.
 Sie entsteht dort, wo Strukturen stabil genug sind, um Wirkung zu bündeln, und offen genug, um Impulse aufzunehmen.

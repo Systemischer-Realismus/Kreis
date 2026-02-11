@@ -1,4 +1,4 @@
-Kapitel 54 – Grenzen, Schwellen und systemische Übergänge
+**Kapitel 54 – Grenzen, Schwellen und systemische Übergänge**
 Grenzen sind die Unterscheidungen, durch die ein System sich selbst formt.
 Sie definieren, was dazugehört und was draußen bleibt, welche Prozesse integriert werden und welche nicht.
 Grenzen sind keine Mauern, sondern Filter:

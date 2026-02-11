@@ -1,4 +1,4 @@
-Kapitel 27 – Musterbruch, Innovation und systemische Erneuerung
+**Kapitel 27 – Musterbruch, Innovation und systemische Erneuerung**
 Musterbruch ist der Moment, in dem ein System eine gewohnte Struktur verlässt.
 Nicht aus Laune, sondern aus Notwendigkeit.
 Ein Muster bricht, wenn seine Wirkung nicht mehr trägt, wenn seine Rückführung versagt oder wenn seine Umweltbedingungen sich so verändern, dass das Alte nicht mehr funktioniert.

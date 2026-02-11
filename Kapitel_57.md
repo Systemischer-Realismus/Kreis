@@ -1,4 +1,4 @@
-Kapitel 57 – Macht, Einfluss und systemische Wirksamkeit
+**Kapitel 57 – Macht, Einfluss und systemische Wirksamkeit**
 Macht ist die Fähigkeit eines Systems, die Bedingungen seiner eigenen Stabilität zu gestalten.
 Sie entsteht nicht aus Zwang, sondern aus Struktur:
 aus der Position in Netzwerken, aus der Kontrolle über Ressourcen, aus der Fähigkeit, Erwartungen zu prägen.

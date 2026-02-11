@@ -1,4 +1,4 @@
-Grundprinzipien des Systemischen Realismus
+**Grundprinzipien des Systemischen Realismus**
 1. Reproduktion ist Pflicht
 Stabile Systeme investieren Energie in ihre eigene Erhaltung.
 Zivilisation muss dasselbe tun, sonst verliert sie ihre Grundlage.

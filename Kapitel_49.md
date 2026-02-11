@@ -1,4 +1,4 @@
-Kapitel 49 – Identität, Selbstbeschreibung und systemische Kontinuität
+**Kapitel 49 – Identität, Selbstbeschreibung und systemische Kontinuität**
 Identität ist die Weise, in der ein System sich selbst von seiner Umwelt unterscheidet.
 Sie ist kein innerer Kern, sondern ein Muster:
 die wiederkehrende Form, in der ein System seine Prozesse organisiert, seine Grenzen zieht und seine Geschichte interpretiert.

@@ -1,4 +1,4 @@
-Kapitel 6 – Ordnung, Störung und Anpassung
+**Kapitel 6 – Ordnung, Störung und Anpassung**
 Ordnung ist kein Zustand, sondern ein Prozess.
 Sie entsteht nicht durch Kontrolle, sondern durch die Fähigkeit eines Systems, seine eigenen Abläufe zu stabilisieren.
 Ordnung bedeutet nicht Starrheit, sondern Kohärenz:
