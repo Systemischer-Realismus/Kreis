@@ -117,3 +117,4 @@
 * [Kapitel 111 - Wie die neue Epoche ihre eigene Integrität bewahrt](Kapitel_111.md)
 * [Kapitel 112 - Wie die neue Epoche sich im Ganzen verortet](Kapitel_112.md)
 * [Kapitel 113 - Was die neue Epoche ist](Kapitel_113.md)
+* [Schlussseite](Schlussseite.md)
