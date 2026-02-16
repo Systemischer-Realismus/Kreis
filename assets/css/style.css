@@ -1,10 +1,7 @@
-<p class="motto">Alles ist im Aufbau.</p>body {
+body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 1.6;
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 40px 20px;
   color: #222;
 }
 
@@ -56,18 +53,6 @@ ul, ol {
   margin-bottom: 1.6em;
   line-height: 1.6;
 }
-.site-header {
-  display: none;
-}
-.page-header {
-  padding: 2rem 0;
-  text-align: center;
-}
-
-.page-header h1 {
-  font-size: 2.4rem;
-  margin-bottom: 0.5em;
-}
 h1 {
   font-size: 2.2rem;
   margin-top: 2.5em;
@@ -82,18 +67,6 @@ ul, ol {
   margin-left: 1.4em;
   margin-bottom: 1.6em;
   line-height: 1.6;
-}
-.site-header {
-  display: none;
-}
-.page-header {
-  padding: 2rem 0;
-  text-align: center;
-}
-
-.page-header h1 {
-  font-size: 2.4rem;
-  margin-bottom: 0.5em;
 }
 section {
   margin-top: 3rem;
@@ -116,23 +89,124 @@ p + p {
   margin-bottom: 2.5rem;
   opacity: 0.9;
 }
-<p class="motto">Alles ist im Aufbau.</p>
-.sidebar-hint {
-  font-size: 0.9rem;
-  line-height: 1.4;
-  opacity: 0.7;
-  margin-top: 1rem;
-  margin-bottom: 2rem;
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 240px;
+    height: 100%;
+    background: #f4f4f4;
+    padding: 20px;
+    overflow-y: auto;
+    border-right: 1px solid #ccc;
 }
-<p class="sidebar-hint">Willkommen auf der offiziellen Seite. Dieses Werk befindet sich im Aufbau.</p>
-<p class="motto">Wir sind im Aufbruch.</p>
-.motto-block {
-  margin-top: 3rem;
-  margin-bottom: 3rem;
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid rgba(0,0,0,0.15);
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 240px;
+    height: 100%;
+    background: #f4f4f4;
+    padding: 20px;
+    overflow-y: auto;
+    border-right: 1px solid #ccc;
+    z-index: 1000;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding-left: 0;
+}
+.sidebar li {
+    margin-bottom: 10px;
+}
+
+.sidebar a {
+    text-decoration: none;
+    color: #333;
+}
+.site-header {
+    display: none !important;
+    position: static !important;
+    z-index: 0 !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 .page-header {
-  border-top: 1px solid rgba(0,0,0,0.15);
-  padding-top: 2.5rem;
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 0 !important;
+    border: none !important;
+    position: static !important;
+    z-index: 0 !important;
+}
+body {
+    margin-left: 260px !important;
+    max-width: none !important;
+}
+.page-content {
+    position: static !important;
+    z-index: 0 !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.wrapper {
+    position: static !important;
+    z-index: 0 !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.main-content {
+    position: static !important;
+    z-index: 0 !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.page-header * {
+    display: none !important;
+}
+body {
+    margin-left: 280px !important;   /* Sidebar 240px + 40px Luft */
+    padding: 20px !important;        /* etwas Raum oben/unten */
+}
+.main-content, .page-content, .wrapper {
+    max-width: 900px !important;
+}
+h1 {
+    font-size: 2.2rem;
+    margin-top: 2.2rem;
+    margin-bottom: 1rem;
+}
+
+h2 {
+    font-size: 1.6rem;
+    margin-top: 2rem;
+    margin-bottom: 0.8rem;
+}
+
+h3 {
+    font-size: 1.3rem;
+    margin-top: 1.6rem;
+    margin-bottom: 0.6rem;
+}
+p {
+    margin-bottom: 1.4rem;
+    line-height: 1.75;
+}
+.sidebar {
+    background: #f7f7f7;
+    border-right: 1px solid #ddd;
+}
+
+.sidebar a:hover {
+    color: #000;
+    font-weight: 600;
+}
+.skip-to-content {
+    display: none !important;
 }
