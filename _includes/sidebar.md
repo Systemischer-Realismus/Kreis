@@ -7,12 +7,12 @@ layout: none
 ## Navigation
 
 - [Startseite](index.md)
-- [Vorwort](Vorwort.md)
-- [Einleitung](Einleitung.md)
-- [Manifest](Manifest.md)
-- [Grundprinzipien](Grundprinzipien.md)
-- [Historie](Historie.md)
-- [Modell](Modell.md)
+- [Vorwort](vorwort.md)
+- [Einleitung](einleitung.md)
+- [Manifest](manifest.md)
+- [Grundprinzipien](grundprinzipien.md)
+- [Historie](historie.md)
+- [Modell](modell.md)
 - [Übersicht](uebersicht.md)
 
 ---
