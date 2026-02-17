@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 21 – Grenzen, Übergänge und Systemwechsel"
 ---
 
-# Kapitel 21 – Grenzen, Übergänge und Systemwechsel
+## Kapitel 21 – Grenzen, Übergänge und Systemwechsel
 
 ## 1. Grenzen als Orte der Selbstwahrnehmung
 

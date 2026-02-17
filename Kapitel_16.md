@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 16 – Macht, Einfluss und Systemgrenzen"
 ---
 
-# Kapitel 16 – Macht, Einfluss und Systemgrenzen
+## Kapitel 16 – Macht, Einfluss und Systemgrenzen
 
 ## 1. Macht als Fähigkeit, Energie zu lenken
 

@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 50 – Freiheit, Möglichkeit und systemische Offenheit"
 ---
 
-# Kapitel 50 – Freiheit, Möglichkeit und systemische Offenheit
+## Kapitel 50 – Freiheit, Möglichkeit und systemische Offenheit
 
 ## 1. Freiheit als struktureller Handlungsspielraum
 

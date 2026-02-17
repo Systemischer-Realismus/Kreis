@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 32 – Differenz, Vielfalt und systemische Resilienz"
 ---
 
-# Kapitel 32 – Differenz, Vielfalt und systemische Resilienz
+## Kapitel 32 – Differenz, Vielfalt und systemische Resilienz
 
 ## 1. Differenz als Grundlage lebendiger Ordnung
 

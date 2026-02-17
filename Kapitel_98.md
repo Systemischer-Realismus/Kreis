@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 98 – Wie die neue Epoche Wirkung entfaltet"
 ---
 
-# Kapitel 98 – Wie die neue Epoche Wirkung entfaltet
+## Kapitel 98 – Wie die neue Epoche Wirkung entfaltet
 
 ## 1. Eine Epoche ist nicht stabil, wenn sie nur existiert — sie ist stabil, wenn sie wirkt
 

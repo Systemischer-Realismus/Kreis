@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 52 – Struktur, Form und systemische Gestalt"
 ---
 
-# Kapitel 52 – Struktur, Form und systemische Gestalt
+## Kapitel 52 – Struktur, Form und systemische Gestalt
 
 ## 1. Struktur als innere Architektur eines Systems
 

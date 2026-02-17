@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 35 – Kopplung, Interdependenz und systemische Kohärenz"
 ---
 
-# Kapitel 35 – Kopplung, Interdependenz und systemische Kohärenz
+## Kapitel 35 – Kopplung, Interdependenz und systemische Kohärenz
 
 ## 1. Kopplung als Verbindung von Wirkungen
 

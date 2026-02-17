@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 82 – Warum die Zukunft der Menschheit von der planetaren Ordnung abhängt"
 ---
 
-# Kapitel 82 – Warum die Zukunft der Menschheit von der planetaren Ordnung abhängt
+## Kapitel 82 – Warum die Zukunft der Menschheit von der planetaren Ordnung abhängt
 
 ## 1. Der Mensch lebt nicht auf der Erde — er lebt von ihr
 

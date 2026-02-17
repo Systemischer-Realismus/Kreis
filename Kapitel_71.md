@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 71 – Warum die Natur stabil ist"
 ---
 
-# Kapitel 71 – Warum die Natur stabil ist
+## Kapitel 71 – Warum die Natur stabil ist
 
 ## 1. Die Natur als ältestes stabiles System
 

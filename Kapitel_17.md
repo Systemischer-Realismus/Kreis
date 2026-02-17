@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 17 – Komplexität, Emergenz und Unvorhersehbarkeit"
 ---
 
-# Kapitel 17 – Komplexität, Emergenz und Unvorhersehbarkeit
+## Kapitel 17 – Komplexität, Emergenz und Unvorhersehbarkeit
 
 ## 1. Komplexität als Dichte von Beziehungen
 

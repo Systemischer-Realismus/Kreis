@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 18 – Vertrauen, Kooperation und Systemkohärenz"
 ---
 
-# Kapitel 18 – Vertrauen, Kooperation und Systemkohärenz
+## Kapitel 18 – Vertrauen, Kooperation und Systemkohärenz
 
 ## 1. Vertrauen als unsichtbare Energie
 

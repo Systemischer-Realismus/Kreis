@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 41 – Macht, Einfluss und systemische Wirksamkeit"
 ---
 
-# Kapitel 41 – Macht, Einfluss und systemische Wirksamkeit
+## Kapitel 41 – Macht, Einfluss und systemische Wirksamkeit
 
 ## 1. Macht als Fähigkeit zur Gestaltung der eigenen Reproduktion
 

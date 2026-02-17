@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 85 – Wie lokale Systeme sich regional verbinden"
 ---
 
-# Kapitel 85 – Wie lokale Systeme sich regional verbinden
+## Kapitel 85 – Wie lokale Systeme sich regional verbinden
 
 ## 1. Stabilität entsteht lokal — doch Zukunft entsteht regional
 

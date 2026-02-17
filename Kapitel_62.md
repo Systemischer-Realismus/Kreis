@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 62 – Lernen, Anpassung und systemische Entwicklungsfähigkeit"
 ---
 
-# Kapitel 62 – Lernen, Anpassung und systemische Entwicklungsfähigkeit
+## Kapitel 62 – Lernen, Anpassung und systemische Entwicklungsfähigkeit
 
 ## 1. Lernen als strukturelle Verarbeitung von Erfahrung
 

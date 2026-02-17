@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 86 – Wie regionale Systeme sich zu globalen Strukturen verbinden"
 ---
 
-# Kapitel 86 – Wie regionale Systeme sich zu globalen Strukturen verbinden
+## Kapitel 86 – Wie regionale Systeme sich zu globalen Strukturen verbinden
 
 ## 1. Die Welt ist ein Netzwerk aus Regionen
 

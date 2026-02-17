@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 36 – Redundanz, Alternativen und systemische Robustheit"
 ---
 
-# Kapitel 36 – Redundanz, Alternativen und systemische Robustheit
+## Kapitel 36 – Redundanz, Alternativen und systemische Robustheit
 
 ## 1. Redundanz als Fähigkeit, Funktionen mehrfach abzusichern
 

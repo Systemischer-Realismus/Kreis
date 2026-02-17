@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 103 – Wie die neue Epoche ihr eigenes Bewusstsein entwickelt"
 ---
 
-# Kapitel 103 – Wie die neue Epoche ihr eigenes Bewusstsein entwickelt
+## Kapitel 103 – Wie die neue Epoche ihr eigenes Bewusstsein entwickelt
 
 ## 1. Eine Epoche wird erst real, wenn sie Bewusstsein entwickelt
 

@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 58 – Verantwortung, Antwortfähigkeit und systemische Integrität"
 ---
 
-# Kapitel 58 – Verantwortung, Antwortfähigkeit und systemische Integrität
+## Kapitel 58 – Verantwortung, Antwortfähigkeit und systemische Integrität
 
 ## 1. Verantwortung als Einbezug von Folgen in die eigene Struktur
 

@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 28 – Pfadabhängigkeit, Trägheit und systemische Konsequenz"
 ---
 
-# Kapitel 28 – Pfadabhängigkeit, Trägheit und systemische Konsequenz
+## Kapitel 28 – Pfadabhängigkeit, Trägheit und systemische Konsequenz
 
 ## 1. Pfadabhängigkeit als unsichtbare Architektur
 

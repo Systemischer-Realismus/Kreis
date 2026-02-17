@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 29 – Skalierung, Verdichtung und systemische Tragfähigkeit"
 ---
 
-# Kapitel 29 – Skalierung, Verdichtung und systemische Tragfähigkeit
+## Kapitel 29 – Skalierung, Verdichtung und systemische Tragfähigkeit
 
 ## 1. Skalierung als qualitative Erweiterung
 

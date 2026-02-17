@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 92 – Wie systemische Führung in der Praxis aussieht"
 ---
 
-# Kapitel 92 – Wie systemische Führung in der Praxis aussieht
+## Kapitel 92 – Wie systemische Führung in der Praxis aussieht
 
 ## 1. Systemische Führung ist keine Idee — sie ist eine Praxis
 

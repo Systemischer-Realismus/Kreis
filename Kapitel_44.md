@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 44 – Lernen, Anpassung und systemische Evolution"
 ---
 
-# Kapitel 44 – Lernen, Anpassung und systemische Evolution
+## Kapitel 44 – Lernen, Anpassung und systemische Evolution
 
 ## 1. Lernen als Bildung neuer Muster aus Erfahrung
 

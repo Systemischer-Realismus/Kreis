@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 68 – Die Logik der Reproduktion"
 ---
 
-# Kapitel 68 – Die Logik der Reproduktion
+## Kapitel 68 – Die Logik der Reproduktion
 
 ## 1. Reproduktion als Kernprozess der Stabilität
 

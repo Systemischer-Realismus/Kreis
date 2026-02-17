@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 107 – Wie die neue Epoche ihre eigene Entfaltung beschleunigt"
 ---
 
-# Kapitel 107 – Wie die neue Epoche ihre eigene Entfaltung beschleunigt
+## Kapitel 107 – Wie die neue Epoche ihre eigene Entfaltung beschleunigt
 
 ## 1. Eine Epoche wird erst wirksam, wenn sie ihre eigene Entfaltung beschleunigt
 

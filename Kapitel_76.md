@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 76 – Warum die Ordnung die Grundlage jeder Zukunft ist"
 ---
 
-# Kapitel 76 – Warum die Ordnung die Grundlage jeder Zukunft ist
+## Kapitel 76 – Warum die Ordnung die Grundlage jeder Zukunft ist
 
 ## 1. Zukunft ist ein systemischer Zustand
 

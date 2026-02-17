@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 55 – Vertrauen, Verlässlichkeit und systemische Bindung"
 ---
 
-# Kapitel 55 – Vertrauen, Verlässlichkeit und systemische Bindung
+## Kapitel 55 – Vertrauen, Verlässlichkeit und systemische Bindung
 
 ## 1. Vertrauen als riskante Vorleistung unter Unsicherheit
 

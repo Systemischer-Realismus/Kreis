@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 14 – Identität, Muster und Selbstbeschreibung"
 ---
 
-# Kapitel 14 – Identität, Muster und Selbstbeschreibung
+## Kapitel 14 – Identität, Muster und Selbstbeschreibung
 
 ## 1. Identität als Muster
 

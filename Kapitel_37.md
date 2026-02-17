@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 37 – Integration, Kohärenzbildung und systemische Ganzheit"
 ---
 
-# Kapitel 37 – Integration, Kohärenzbildung und systemische Ganzheit
+## Kapitel 37 – Integration, Kohärenzbildung und systemische Ganzheit
 
 ## 1. Integration als Verbindung vielfältiger Elemente
 

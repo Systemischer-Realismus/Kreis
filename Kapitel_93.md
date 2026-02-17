@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 93 – Warum systemische Führung die Grundlage einer neuen Epoche bildet"
 ---
 
-# Kapitel 93 – Warum systemische Führung die Grundlage einer neuen Epoche bildet
+## Kapitel 93 – Warum systemische Führung die Grundlage einer neuen Epoche bildet
 
 ## 1. Wir stehen nicht am Ende einer Zeit — wir stehen am Anfang einer neuen Epoche
 

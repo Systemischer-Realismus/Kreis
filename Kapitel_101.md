@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 101 – Wie die neue Epoche eine neue Form von Intelligenz hervorbringt"
 ---
 
-# Kapitel 101 – Wie die neue Epoche eine neue Form von Intelligenz hervorbringt
+## Kapitel 101 – Wie die neue Epoche eine neue Form von Intelligenz hervorbringt
 
 ## 1. Intelligenz ist kein individuelles Phänomen — sie ist ein Systemzustand
 

@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 89 – Wie die Transformation praktisch beginnt"
 ---
 
-# Kapitel 89 – Wie die Transformation praktisch beginnt
+## Kapitel 89 – Wie die Transformation praktisch beginnt
 
 ## 1. Die Transformation beginnt nicht mit einem Plan — sie beginnt systemisch
 

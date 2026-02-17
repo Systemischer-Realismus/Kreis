@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 47 – Orientierung, Navigation und systemische Handlungsfähigkeit"
 ---
 
-# Kapitel 47 – Orientierung, Navigation und systemische Handlungsfähigkeit
+## Kapitel 47 – Orientierung, Navigation und systemische Handlungsfähigkeit
 
 ## 1. Orientierung als Fähigkeit, Relevanz im Komplexen zu erkennen
 

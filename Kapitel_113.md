@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 113 – Was die neue Epoche ist"
 ---
 
-# Kapitel 113 – Was die neue Epoche ist
+## Kapitel 113 – Was die neue Epoche ist
 
 ## 1. Eine Epoche wird erst real, wenn sie ist
 

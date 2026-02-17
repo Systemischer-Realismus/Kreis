@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 12 – Information, Wahrnehmung und Orientierung"
 ---
 
-# Kapitel 12 – Information, Wahrnehmung und Orientierung
+## Kapitel 12 – Information, Wahrnehmung und Orientierung
 
 ## 1. Information als Fluss
 

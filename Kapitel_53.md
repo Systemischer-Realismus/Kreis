@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 53 – Komplexität, Reduktion und systemische Klarheit"
 ---
 
-# Kapitel 53 – Komplexität, Reduktion und systemische Klarheit
+## Kapitel 53 – Komplexität, Reduktion und systemische Klarheit
 
 ## 1. Komplexität als Fülle möglicher Wirkungen
 

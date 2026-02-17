@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 39 – Vertrauen, Erwartung und systemische Verlässlichkeit"
 ---
 
-# Kapitel 39 – Vertrauen, Erwartung und systemische Verlässlichkeit
+## Kapitel 39 – Vertrauen, Erwartung und systemische Verlässlichkeit
 
 ## 1. Vertrauen als strukturelle Entscheidung unter Unsicherheit
 

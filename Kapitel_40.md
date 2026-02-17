@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 40 – Kommunikation, Bedeutung und systemische Verständigung"
 ---
 
-# Kapitel 40 – Kommunikation, Bedeutung und systemische Verständigung
+## Kapitel 40 – Kommunikation, Bedeutung und systemische Verständigung
 
 ## 1. Kommunikation als Koordination von Wirkungen
 

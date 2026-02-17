@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 95 – Wie die neue Epoche gelebt wird"
 ---
 
-# Kapitel 95 – Wie die neue Epoche gelebt wird
+## Kapitel 95 – Wie die neue Epoche gelebt wird
 
 ## 1. Die neue Epoche ist keine Theorie — sie ist gelebte Praxis
 

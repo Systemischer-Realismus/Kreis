@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 31 – Zeit, Rhythmus und systemische Dauer"
 ---
 
-# Kapitel 31 – Zeit, Rhythmus und systemische Dauer
+## Kapitel 31 – Zeit, Rhythmus und systemische Dauer
 
 ## 1. Zeit als innere Geschwindigkeit
 

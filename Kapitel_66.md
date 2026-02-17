@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 66 – Wie Systeme Stabilität erzeugen"
 ---
 
-# Kapitel 66 – Wie Systeme Stabilität erzeugen
+## Kapitel 66 – Wie Systeme Stabilität erzeugen
 
 ## 1. Stabilität ist kein Zufall
 

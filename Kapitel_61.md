@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 61 – Wahrheit, Perspektive und systemische Kohärenz"
 ---
 
-# Kapitel 61 – Wahrheit, Perspektive und systemische Kohärenz
+## Kapitel 61 – Wahrheit, Perspektive und systemische Kohärenz
 
 ## 1. Wahrheit als funktionale Beschreibung der Umwelt
 

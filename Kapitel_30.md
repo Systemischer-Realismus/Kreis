@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 30 – Identität, Selbstbeschreibung und systemische Wirklichkeit"
 ---
 
-# Kapitel 30 – Identität, Selbstbeschreibung und systemische Wirklichkeit
+## Kapitel 30 – Identität, Selbstbeschreibung und systemische Wirklichkeit
 
 ## 1. Identität als operative Erzählung
 

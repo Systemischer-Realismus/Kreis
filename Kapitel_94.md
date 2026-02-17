@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 94 – Wie die neue Epoche aussieht"
 ---
 
-# Kapitel 94 – Wie die neue Epoche aussieht
+## Kapitel 94 – Wie die neue Epoche aussieht
 
 ## 1. Die neue Epoche ist keine Vision — sie ist die logische Folge der Ordnung
 

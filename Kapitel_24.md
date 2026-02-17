@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 24 – Energie, Verlust und Rückführungstiefe"
 ---
 
-# Kapitel 24 – Energie, Verlust und Rückführungstiefe
+## Kapitel 24 – Energie, Verlust und Rückführungstiefe
 
 ## 1. Energie als Grundlage systemischer Wirkung
 

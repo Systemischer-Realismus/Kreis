@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 10 – Funktion, Rolle und Verantwortung"
 ---
 
-# Kapitel 10 – Funktion, Rolle und Verantwortung
+## Kapitel 10 – Funktion, Rolle und Verantwortung
 
 ## 1. Funktion als Wirkung im Zusammenhang
 

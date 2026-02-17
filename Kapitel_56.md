@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 56 – Bedeutung, Sinn und systemische Orientierungstiefe"
 ---
 
-# Kapitel 56 – Bedeutung, Sinn und systemische Orientierungstiefe
+## Kapitel 56 – Bedeutung, Sinn und systemische Orientierungstiefe
 
 ## 1. Bedeutung als Bewertung von Unterschieden
 

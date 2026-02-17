@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 57 – Macht, Einfluss und systemische Wirksamkeit"
 ---
 
-# Kapitel 57 – Macht, Einfluss und systemische Wirksamkeit
+## Kapitel 57 – Macht, Einfluss und systemische Wirksamkeit
 
 ## 1. Macht als Fähigkeit, Stabilitätsbedingungen zu gestalten
 

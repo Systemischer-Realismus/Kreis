@@ -1,1 +1,7 @@
-** Platzhalter 
+---
+layout: default
+title: "Platzhalter"
+---
+
+
+## Platzhalter

@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 97 – Wie die neue Epoche sich ausbreitet"
 ---
 
-# Kapitel 97 – Wie die neue Epoche sich ausbreitet
+## Kapitel 97 – Wie die neue Epoche sich ausbreitet
 
 ## 1. Eine Epoche breitet sich nicht durch Macht aus — sondern durch Resonanz
 

@@ -3,7 +3,7 @@ layout: default
 title: "Manifest des Systemischen Realismus"
 ---
 
-# Manifest des Systemischen Realismus
+## Manifest des Systemischen Realismus
 
 ## Präambel
 

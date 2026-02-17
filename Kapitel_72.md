@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 72 – Wie der Mensch die Ordnung verlassen hat"
 ---
 
-# Kapitel 72 – Wie der Mensch die Ordnung verlassen hat
+## Kapitel 72 – Wie der Mensch die Ordnung verlassen hat
 
 ## 1. Der Mensch hat sich aus dem System herausdefiniert
 

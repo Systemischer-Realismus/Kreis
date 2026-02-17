@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 59 – Konfliktfähigkeit, Ambiguitätstoleranz und systemische Reife"
 ---
 
-# Kapitel 59 – Konfliktfähigkeit, Ambiguitätstoleranz und systemische Reife
+## Kapitel 59 – Konfliktfähigkeit, Ambiguitätstoleranz und systemische Reife
 
 ## 1. Konfliktfähigkeit als Kompetenz, Spannung zu tragen
 

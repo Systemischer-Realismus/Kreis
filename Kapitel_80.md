@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 80 – Wie Heilung in realen Systemen abläuft"
 ---
 
-# Kapitel 80 – Wie Heilung in realen Systemen abläuft
+## Kapitel 80 – Wie Heilung in realen Systemen abläuft
 
 ## 1. Heilung ist ein universeller Prozess
 

@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 99 – Wie die neue Epoche dauerhaft wird"
 ---
 
-# Kapitel 99 – Wie die neue Epoche dauerhaft wird
+## Kapitel 99 – Wie die neue Epoche dauerhaft wird
 
 ## 1. Eine Epoche ist erst dauerhaft, wenn sie nicht mehr zurückfallen kann
 

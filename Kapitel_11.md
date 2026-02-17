@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 11 – Zentrum, Peripherie und Wirkungstiefe"
 ---
 
-# Kapitel 11 – Zentrum, Peripherie und Wirkungstiefe
+## Kapitel 11 – Zentrum, Peripherie und Wirkungstiefe
 
 ## 1. Das Zentrum als energetischer Kern
 

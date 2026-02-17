@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 106 – Wie die neue Epoche ihre eigene Dynamik entfaltet"
 ---
 
-# Kapitel 106 – Wie die neue Epoche ihre eigene Dynamik entfaltet
+## Kapitel 106 – Wie die neue Epoche ihre eigene Dynamik entfaltet
 
 ## 1. Eine Epoche wird erst lebendig, wenn sie eine eigene Dynamik entwickelt
 

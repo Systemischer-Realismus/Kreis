@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 79 – Wie die Verletzungen geheilt werden können"
 ---
 
-# Kapitel 79 – Wie die Verletzungen geheilt werden können
+## Kapitel 79 – Wie die Verletzungen geheilt werden können
 
 ## 1. Instabilität ist ein Hinweis — kein Endzustand
 

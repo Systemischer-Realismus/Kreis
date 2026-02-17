@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 38 – Grenzen, Schwellen und systemische Übergänge"
 ---
 
-# Kapitel 38 – Grenzen, Schwellen und systemische Übergänge
+## Kapitel 38 – Grenzen, Schwellen und systemische Übergänge
 
 ## 1. Grenzen als Unterscheidung von System und Umwelt
 

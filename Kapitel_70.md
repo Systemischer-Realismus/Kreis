@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 70 – Wie Systeme wieder stabil werden"
 ---
 
-# Kapitel 70 – Wie Systeme wieder stabil werden
+## Kapitel 70 – Wie Systeme wieder stabil werden
 
 ## 1. Instabilität ist kein Endzustand
 

@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 51 – Resonanz, Rückkopplung und systemische Verbundenheit"
 ---
 
-# Kapitel 51 – Resonanz, Rückkopplung und systemische Verbundenheit
+## Kapitel 51 – Resonanz, Rückkopplung und systemische Verbundenheit
 
 ## 1. Resonanz als Fähigkeit, sich berühren zu lassen
 

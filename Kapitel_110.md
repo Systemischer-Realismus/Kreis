@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 110 – Wie die neue Epoche sich selbst schützt"
 ---
 
-# Kapitel 110 – Wie die neue Epoche sich selbst schützt
+## Kapitel 110 – Wie die neue Epoche sich selbst schützt
 
 ## 1. Eine Epoche wird erst stabil, wenn sie sich selbst schützen kann
 

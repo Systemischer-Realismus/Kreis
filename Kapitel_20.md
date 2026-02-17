@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 20 – Lernen, Feedback und strukturelle Intelligenz"
 ---
 
-# Kapitel 20 – Lernen, Feedback und strukturelle Intelligenz
+## Kapitel 20 – Lernen, Feedback und strukturelle Intelligenz
 
 ## 1. Lernen als Veränderung von Mustern
 

@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 63 – Die integrative Theorie des Lernens: Luhmann, Bateson und Maturana/Varela"
 ---
 
-# Kapitel 63 – Die integrative Theorie des Lernens: Luhmann, Bateson und Maturana/Varela
+## Kapitel 63 – Die integrative Theorie des Lernens: Luhmann, Bateson und Maturana/Varela
 
 ## 1. Die Notwendigkeit einer integrativen Perspektive
 

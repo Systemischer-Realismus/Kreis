@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 112 – Wie die neue Epoche sich im Ganzen verortet"
 ---
 
-# Kapitel 112 – Wie die neue Epoche sich im Ganzen verortet
+## Kapitel 112 – Wie die neue Epoche sich im Ganzen verortet
 
 ## 1. Eine Epoche wird erst Teil der Geschichte, wenn sie sich im Ganzen verortet
 

@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 88 – Warum die globale Ordnung notwendig – und erreichbar – ist"
 ---
 
-# Kapitel 88 – Warum die globale Ordnung notwendig – und erreichbar – ist
+## Kapitel 88 – Warum die globale Ordnung notwendig – und erreichbar – ist
 
 ## 1. Die globale Ordnung ist keine Vision — sie ist eine Notwendigkeit
 

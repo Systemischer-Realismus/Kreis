@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 22 – Stabilisierung, Rückkopplung und Selbsterhaltung"
 ---
 
-# Kapitel 22 – Stabilisierung, Rückkopplung und Selbsterhaltung
+## Kapitel 22 – Stabilisierung, Rückkopplung und Selbsterhaltung
 
 ## 1. Stabilisierung als Erhalt der Form
 

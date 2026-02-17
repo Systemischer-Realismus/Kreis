@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 49 – Identität, Selbstbeschreibung und systemische Kontinuität"
 ---
 
-# Kapitel 49 – Identität, Selbstbeschreibung und systemische Kontinuität
+## Kapitel 49 – Identität, Selbstbeschreibung und systemische Kontinuität
 
 ## 1. Identität als wiederkehrendes Muster der Selbstunterscheidung
 

@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 43 – Kooperation, Konkurrenz und systemische Balance"
 ---
 
-# Kapitel 43 – Kooperation, Konkurrenz und systemische Balance
+## Kapitel 43 – Kooperation, Konkurrenz und systemische Balance
 
 ## 1. Kooperation als gemeinsame Erzeugung von Wirkung
 

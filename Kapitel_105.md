@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 105 – Wofür die neue Epoche existiert"
 ---
 
-# Kapitel 105 – Wofür die neue Epoche existiert
+## Kapitel 105 – Wofür die neue Epoche existiert
 
 ## 1. Eine Epoche wird erst real, wenn sie ihren Sinn erkennt
 

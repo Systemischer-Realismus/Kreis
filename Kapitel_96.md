@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 96 – Wie die neue Epoche sich selbst stabilisiert"
 ---
 
-# Kapitel 96 – Wie die neue Epoche sich selbst stabilisiert
+## Kapitel 96 – Wie die neue Epoche sich selbst stabilisiert
 
 ## 1. Die neue Epoche entsteht nicht einmalig — sie entsteht durch Selbststabilisierung
 

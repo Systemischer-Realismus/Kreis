@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 111 – Wie die neue Epoche ihre eigene Integrität bewahrt"
 ---
 
-# Kapitel 111 – Wie die neue Epoche ihre eigene Integrität bewahrt
+## Kapitel 111 – Wie die neue Epoche ihre eigene Integrität bewahrt
 
 ## 1. Eine Epoche wird erst wahrhaft stabil, wenn sie Integrität besitzt
 

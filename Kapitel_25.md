@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 25 – Ordnung, Struktur und systemische Form"
 ---
 
-# Kapitel 25 – Ordnung, Struktur und systemische Form
+## Kapitel 25 – Ordnung, Struktur und systemische Form
 
 ## 1. Ordnung als wirkendes Muster
 

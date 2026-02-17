@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 19 – Ressourcen, Knappheit und Priorisierung"
 ---
 
-# Kapitel 19 – Ressourcen, Knappheit und Priorisierung
+## Kapitel 19 – Ressourcen, Knappheit und Priorisierung
 
 ## 1. Ressourcen als gebundene Energie
 

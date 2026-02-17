@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 100 – Wie die neue Epoche den Planeten transformiert"
 ---
 
-# Kapitel 100 – Wie die neue Epoche den Planeten transformiert
+## Kapitel 100 – Wie die neue Epoche den Planeten transformiert
 
 ## 1. Eine Epoche ist nicht stabil, wenn sie nur Menschen verändert — sie ist stabil, wenn sie den Planeten verändert
 

@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 74 – Die ersten Schritte zurück in die Ordnung"
 ---
 
-# Kapitel 74 – Die ersten Schritte zurück in die Ordnung
+## Kapitel 74 – Die ersten Schritte zurück in die Ordnung
 
 ## 1. Die Rückkehr beginnt im Kleinen — nicht im Großen
 

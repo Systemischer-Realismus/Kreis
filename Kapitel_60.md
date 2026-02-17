@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 60 – Entscheidung, Konsequenz und systemische Verantwortungstiefe"
 ---
 
-# Kapitel 60 – Entscheidung, Konsequenz und systemische Verantwortungstiefe
+## Kapitel 60 – Entscheidung, Konsequenz und systemische Verantwortungstiefe
 
 ## 1. Entscheidung als Realisierung einer Möglichkeit
 

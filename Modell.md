@@ -3,7 +3,7 @@ layout: default
 title: "Zentrales Modell"
 ---
 
-# Das zentrale Modell der dynamischen Reproduktion der Systemrealitaet
+## Das zentrale Modell der dynamischen Reproduktion der Systemrealitaet
 
 Die Dynamische Reproduktionstheorie der Systemrealitaet  
 beschreibt die Welt als ein System,  

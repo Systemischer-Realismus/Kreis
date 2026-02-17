@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 13 – Zeit, Rhythmus und Veränderung"
 ---
 
-# Kapitel 13 – Zeit, Rhythmus und Veränderung
+## Kapitel 13 – Zeit, Rhythmus und Veränderung
 
 ## 1. Zeit als Prozess
 

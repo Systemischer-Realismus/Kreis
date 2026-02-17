@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 26 – Symmetrie, Asymmetrie und systemische Balance"
 ---
 
-# Kapitel 26 – Symmetrie, Asymmetrie und systemische Balance
+## Kapitel 26 – Symmetrie, Asymmetrie und systemische Balance
 
 ## 1. Symmetrie als gegenseitiger Ausgleich
 

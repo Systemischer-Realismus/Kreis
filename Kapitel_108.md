@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 108 – Wie die neue Epoche ihre eigene Zukunft gestaltet"
 ---
 
-# Kapitel 108 – Wie die neue Epoche ihre eigene Zukunft gestaltet
+## Kapitel 108 – Wie die neue Epoche ihre eigene Zukunft gestaltet
 
 ## 1. Eine Epoche wird erst zukunftsfähig, wenn sie ihre eigene Zukunft gestaltet
 

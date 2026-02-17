@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 75 – Wie die Ordnung in verschiedenen Systemen wirkt"
 ---
 
-# Kapitel 75 – Wie die Ordnung in verschiedenen Systemen wirkt
+## Kapitel 75 – Wie die Ordnung in verschiedenen Systemen wirkt
 
 ## 1. Die Ordnung ist universell
 

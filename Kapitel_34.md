@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 34 – Emergenz, Selbstorganisation und systemische Intelligenz"
 ---
 
-# Kapitel 34 – Emergenz, Selbstorganisation und systemische Intelligenz
+## Kapitel 34 – Emergenz, Selbstorganisation und systemische Intelligenz
 
 ## 1. Emergenz als kreative Dimension des Systems
 

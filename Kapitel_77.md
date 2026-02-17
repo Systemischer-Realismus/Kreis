@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 77 – Die universellen Prinzipien stabiler Systeme"
 ---
 
-# Kapitel 77 – Die universellen Prinzipien stabiler Systeme
+## Kapitel 77 – Die universellen Prinzipien stabiler Systeme
 
 ## 1. Die Ordnung ist universell
 

@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 69 – Die Logik der Rückführung"
 ---
 
-# Kapitel 69 – Die Logik der Rückführung
+## Kapitel 69 – Die Logik der Rückführung
 
 ## 1. Rückführung als unsichtbarer Stabilitätsmechanismus
 

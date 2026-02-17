@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 81 – Wie Heilung auf globaler Ebene funktioniert"
 ---
 
-# Kapitel 81 – Wie Heilung auf globaler Ebene funktioniert
+## Kapitel 81 – Wie Heilung auf globaler Ebene funktioniert
 
 ## 1. Die Welt ist ein Gesamtsystem
 

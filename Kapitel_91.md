@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 91 – Wie systemische Führung die Transformation ermöglicht"
 ---
 
-# Kapitel 91 – Wie systemische Führung die Transformation ermöglicht
+## Kapitel 91 – Wie systemische Führung die Transformation ermöglicht
 
 ## 1. Systemische Führung steuert nicht — sie schafft Bedingungen
 

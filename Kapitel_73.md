@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 73 – Wie wir in die Ordnung zurückfinden"
 ---
 
-# Kapitel 73 – Wie wir in die Ordnung zurückfinden
+## Kapitel 73 – Wie wir in die Ordnung zurückfinden
 
 ## 1. Die Ordnung existiert weiter — wir müssen sie nur wieder erkennen
 

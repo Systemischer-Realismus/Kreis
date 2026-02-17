@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 78 – Wie die universellen Prinzipien verletzt wurden"
 ---
 
-# Kapitel 78 – Wie die universellen Prinzipien verletzt wurden
+## Kapitel 78 – Wie die universellen Prinzipien verletzt wurden
 
 ## 1. Instabilität entsteht nicht zufällig
 

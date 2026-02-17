@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 102 – Wie die neue Epoche ihre eigene Struktur bildet"
 ---
 
-# Kapitel 102 – Wie die neue Epoche ihre eigene Struktur bildet
+## Kapitel 102 – Wie die neue Epoche ihre eigene Struktur bildet
 
 ## 1. Eine Epoche ist erst stabil, wenn sie ihre eigene Struktur hervorbringt
 

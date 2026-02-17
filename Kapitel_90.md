@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 90 – Wie die Transformation in den zentralen Bereichen umgesetzt wird"
 ---
 
-# Kapitel 90 – Wie die Transformation in den zentralen Bereichen umgesetzt wird
+## Kapitel 90 – Wie die Transformation in den zentralen Bereichen umgesetzt wird
 
 ## 1. Transformation ist konkret — sie findet in realen Systemen statt
 

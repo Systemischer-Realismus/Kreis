@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 67 – Die Logik der Kreisläufe"
 ---
 
-# Kapitel 67 – Die Logik der Kreisläufe
+## Kapitel 67 – Die Logik der Kreisläufe
 
 ## 1. Kreisläufe als Ursprung von Stabilität
 

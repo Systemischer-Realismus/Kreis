@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 45 – Stabilität, Fragilität und systemische Resilienzgrenzen"
 ---
 
-# Kapitel 45 – Stabilität, Fragilität und systemische Resilienzgrenzen
+## Kapitel 45 – Stabilität, Fragilität und systemische Resilienzgrenzen
 
 ## 1. Stabilität als dynamische Fähigkeit, Form zu bewahren
 

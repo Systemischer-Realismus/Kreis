@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 33 – Komplexität, Überlastung und systemische Klarheit"
 ---
 
-# Kapitel 33 – Komplexität, Überlastung und systemische Klarheit
+## Kapitel 33 – Komplexität, Überlastung und systemische Klarheit
 
 ## 1. Komplexität als natürlicher Zustand lebender Systeme
 

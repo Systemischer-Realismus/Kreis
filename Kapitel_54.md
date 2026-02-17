@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 54 – Grenzen, Schwellen und systemische Übergänge"
 ---
 
-# Kapitel 54 – Grenzen, Schwellen und systemische Übergänge
+## Kapitel 54 – Grenzen, Schwellen und systemische Übergänge
 
 ## 1. Grenzen als formative Unterscheidungen eines Systems
 

@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 46 – Energie, Aufwand und systemische Effizienz"
 ---
 
-# Kapitel 46 – Energie, Aufwand und systemische Effizienz
+## Kapitel 46 – Energie, Aufwand und systemische Effizienz
 
 ## 1. Energie als grundlegende Ressource systemischer Wirksamkeit
 

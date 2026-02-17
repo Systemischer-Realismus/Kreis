@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 65 – Wie Systeme ihre Stabilität verlieren"
 ---
 
-# Kapitel 65 – Wie Systeme ihre Stabilität verlieren
+## Kapitel 65 – Wie Systeme ihre Stabilität verlieren
 
 ## 1. Instabilität entsteht nicht plötzlich
 

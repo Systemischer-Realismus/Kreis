@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 83 – Wie wir die planetare Ordnung wiederherstellen können"
 ---
 
-# Kapitel 83 – Wie wir die planetare Ordnung wiederherstellen können
+## Kapitel 83 – Wie wir die planetare Ordnung wiederherstellen können
 
 ## 1. Die planetare Ordnung ist nicht verloren — sie ist verletzt
 

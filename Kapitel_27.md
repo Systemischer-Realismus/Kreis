@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 27 – Musterbruch, Innovation und systemische Erneuerung"
 ---
 
-# Kapitel 27 – Musterbruch, Innovation und systemische Erneuerung
+## Kapitel 27 – Musterbruch, Innovation und systemische Erneuerung
 
 ## 1. Musterbruch als notwendiger Übergang
 

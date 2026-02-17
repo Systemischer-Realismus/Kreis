@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 109 – Worauf die neue Epoche gründet"
 ---
 
-# Kapitel 109 – Worauf die neue Epoche gründet
+## Kapitel 109 – Worauf die neue Epoche gründet
 
 ## 1. Eine Epoche wird erst stabil, wenn sie ein Fundament hat
 

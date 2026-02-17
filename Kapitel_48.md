@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 48 – Rhythmus, Zyklen und systemische Zeitlichkeit"
 ---
 
-# Kapitel 48 – Rhythmus, Zyklen und systemische Zeitlichkeit
+## Kapitel 48 – Rhythmus, Zyklen und systemische Zeitlichkeit
 
 ## 1. Rhythmus als zeitliche Struktur eines Systems
 

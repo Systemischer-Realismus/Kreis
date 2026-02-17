@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 23 – Umwelt, Einbettung und Resonanz"
 ---
 
-# Kapitel 23 – Umwelt, Einbettung und Resonanz
+## Kapitel 23 – Umwelt, Einbettung und Resonanz
 
 ## 1. Umwelt als Mitspieler
 

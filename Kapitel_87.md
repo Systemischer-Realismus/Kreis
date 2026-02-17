@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 87 – Wie die globale Ordnung als Gesamtsystem aussieht"
 ---
 
-# Kapitel 87 – Wie die globale Ordnung als Gesamtsystem aussieht
+## Kapitel 87 – Wie die globale Ordnung als Gesamtsystem aussieht
 
 ## 1. Die Welt ist ein System — kein Chaos
 

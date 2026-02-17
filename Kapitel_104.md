@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 104 – Wie die neue Epoche ihre eigene Identität formt"
 ---
 
-# Kapitel 104 – Wie die neue Epoche ihre eigene Identität formt
+## Kapitel 104 – Wie die neue Epoche ihre eigene Identität formt
 
 ## 1. Eine Epoche wird erst real, wenn sie eine Identität formt
 

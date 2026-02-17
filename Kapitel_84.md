@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 84 – Wie die Wiederherstellung lokal beginnt"
 ---
 
-# Kapitel 84 – Wie die Wiederherstellung lokal beginnt
+## Kapitel 84 – Wie die Wiederherstellung lokal beginnt
 
 ## 1. Die Wiederherstellung beginnt nicht global — sie beginnt lokal
 

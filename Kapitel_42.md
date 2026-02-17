@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 42 – Konflikt, Spannung und systemische Transformation"
 ---
 
-# Kapitel 42 – Konflikt, Spannung und systemische Transformation
+## Kapitel 42 – Konflikt, Spannung und systemische Transformation
 
 ## 1. Konflikt als Sichtbarwerden unvereinbarer Wirkungen
 

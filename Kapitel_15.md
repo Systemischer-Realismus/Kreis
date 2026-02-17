@@ -3,7 +3,7 @@ layout: default
 title: "Kapitel 15 – Konflikt, Spannung und Transformation"
 ---
 
-# Kapitel 15 – Konflikt, Spannung und Transformation
+## Kapitel 15 – Konflikt, Spannung und Transformation
 
 ## 1. Konflikt als Ausdruck systemischer Spannung
 
