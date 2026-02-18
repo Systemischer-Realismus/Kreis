@@ -27,6 +27,7 @@
       display: flex;
       justify-content: center;
       gap: 30px;
+      flex-wrap: wrap;
     }
 
     .headbar a {
@@ -40,7 +41,7 @@
       color: #000;
     }
 
-    /* Kosmos-Symbol */
+    /* Kosmos-Symbole */
     .kosmos-icon {
       width: 20px;
       height: 20px;
@@ -48,6 +49,18 @@
       top: -6px;
       margin-left: 6px;
       opacity: 0.85;
+    }
+
+    .kosmos-center {
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom: 30px;
+    }
+
+    .kosmos-icon-large {
+      width: 40px;
+      height: 40px;
+      opacity: 0.9;
     }
 
     /* Hauptbereich */
@@ -60,7 +73,7 @@
     h1 {
       text-align: center;
       font-size: 32px;
-      margin-bottom: 20px;
+      margin-bottom: 10px;
     }
 
     h2 {
@@ -73,25 +86,6 @@
       font-size: 18px;
       color: #444;
     }
-
-    /* Vor/Zurück Navigation */
-    .nav-arrows {
-      display: flex;
-      justify-content: space-between;
-      margin-top: 40px;
-      padding: 0 10px;
-    }
-
-    .nav-arrows a {
-      text-decoration: none;
-      font-size: 18px;
-      color: #333;
-      font-weight: bold;
-    }
-
-    .nav-arrows a:hover {
-      color: #000;
-    }
   </style>
 </head>
 
@@ -100,11 +94,17 @@
   <!-- HEADBAR -->
   <nav class="headbar">
     <ul>
-      <li><a href="/kreis/index.html">KREIS <img src="/kreis/kosmos.ico" class="kosmos-icon" alt="Kosmos"></a></li>
+      <li><a href="/kreis/index.html">KREIS <img src="/kreis/kosmos.ico" class="kosmos-icon"></a></li>
       <li><a href="/kreis/vorwort.html">Theorie</a></li>
       <li><a href="/kreis/grundprinzipien.html">Ordnung</a></li>
       <li><a href="/kreis/Kapitel_01.html">Aufbruch</a></li>
       <li><a href="/kreis/impressum.html">Impressum</a></li>
+    </ul>
+
+    <!-- Vor/Zurück in der Headbar -->
+    <ul>
+      <li><a href="/kreis/Kapitel_113.html">← zurück</a></li>
+      <li><a href="/kreis/vorwort.html">vor →</a></li>
     </ul>
   </nav>
 
@@ -113,8 +113,13 @@
 
     <h1>
       Systemischer Realismus – KREIS
-      <img src="/kreis/kosmos.ico" class="kosmos-icon" alt="Kosmos">
+      <img src="/kreis/kosmos.ico" class="kosmos-icon">
     </h1>
+
+    <!-- ZENTRALES URSPRUNGSSYMBOL -->
+    <div class="kosmos-center">
+      <img src="/kreis/kosmos.ico" class="kosmos-icon-large">
+    </div>
 
     <p>
       Willkommen im Ursprung des Kreises.  
@@ -146,12 +151,6 @@
 
     <h2>Historische und systemische Einbettung</h2>
     <p>(Hier folgen später die nächsten Abschnitte.)</p>
-
-    <!-- Vor/Zurück Navigation -->
-    <div class="nav-arrows">
-      <a href="/kreis/Kapitel_113.html">← zurück</a>
-      <a href="/kreis/vorwort.html">vor →</a>
-    </div>
 
   </div>
 
