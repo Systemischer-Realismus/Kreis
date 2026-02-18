@@ -14,6 +14,18 @@ body {
   margin-right: auto;
   margin-top: 90px; /* Platz für Headbar */
 }
+.nav-prev, .nav-next {
+  font-weight: bold;
+  padding: 4px 10px;
+}
+
+.nav-prev a, .nav-next a {
+  color: #333;
+  text-decoration: none;
+}
+.nav-prev a:hover, .nav-next a:hover {
+  text-decoration: underline;
+}
 
 h1, h2, h3, h4 {
   font-weight: 600;
