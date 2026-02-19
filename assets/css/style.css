@@ -13,7 +13,8 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: 90px; /* Platz für Headbar */
-}
+  text-align: center; /* ← DAS ist der Schlüssel */
+  }
   .content {
   max-width: 800px;
   margin: 0 auto;
