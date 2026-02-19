@@ -117,6 +117,9 @@ a:hover {
   margin-left: 6px;
   opacity: 0.85;
 }
+.headbar .nav-move {
+  margin-left: -38px; /* ca. 1 cm nach links */
+}
 /* --------------------------------------------------
    Zusätzliche Abstände
 -------------------------------------------------- */
