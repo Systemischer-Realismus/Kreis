@@ -213,14 +213,16 @@ body.index-surface {
   opacity: 0.8;
   font-weight: 300;
 }
-
 /* Erde */
 .hero-earth {
-  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  margin-top: -1rem;   /* Erde nach oben ziehen */
+  margin-bottom: 2rem; /* Abstand zum Grundsatz */
 }
 
 .earth {
-  height: 160px;
-  transform: rotate(180deg);
+  width: 220px;   /* oder 250px, wenn du sie größer willst */
+  height: auto;
   opacity: 0.9;
 }
