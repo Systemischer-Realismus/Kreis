@@ -171,8 +171,7 @@ body.index-surface {
   flex-direction: column;
   justify-content: flex-start; /* Start statt Mitte */
   align-items: center;
-  padding-top: 12rem; /* Abstand zum oberen Rand */
-  gap: 2rem; /* Abstand zwischen den Elementen */
+  padding-top: 12rem;
 }
 
 /* Oben: Raumschiff */
@@ -205,8 +204,7 @@ body.index-surface {
 }
 /* Erde */
 .hero-earth {
-  display: flex;
-  justify-content: center;
+  margin-top: -1rem; /* Erde näher an den Kreis */
 }
 .earth {
   width: 220px;   /* oder 250px, wenn du sie größer willst */
