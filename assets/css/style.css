@@ -175,7 +175,7 @@ body.index-surface {
 }
 .earth-container {
   position: absolute;
-  top: 114px; /* 3 cm */
+  top: 19px; /* 3 cm */
   left: 50%;
   transform: translateX(-50%);
   z-index: 1;
@@ -185,7 +185,9 @@ body.index-surface {
   margin-top: -114rem;
   font-size: 2rem;
   font-weight: 600;
-  letter-spacing: 1px;
+  letter-spacing: 1px
+  position: relative;
+  z-index: 3;
 }
 /* Kreis */
 .kreis-button {
@@ -202,7 +204,9 @@ body.index-surface {
   font-weight: 600;
   font-size: 1rem;
   background: rgba(255, 255, 255, 0.05);
-  transition: 0.3s ease;
+  transition: 0.3s ease
+  position: relative;
+  z-index: 3;
 }
 
 .kreis-button:hover {
@@ -220,11 +224,9 @@ body.index-surface {
 }
 /* Stiller Grundsatz */
 .grundsatz.still {
-  max-width: 650px;
-  margin: 1.5rem auto;
-  font-size: 1rem;
-  line-height: 1.6;
-  color: #cccccc;
-  opacity: 0.8;
-  font-weight: 300;
+  position: absolute;
+  bottom: 80px; /* Höhe innerhalb der Erde */
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 4;
 }
