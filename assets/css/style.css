@@ -175,20 +175,21 @@ body.index-surface {
 }
 .earth-container {
   position: absolute;
+  top: 114px; /* 3 cm */
   left: 50%;
   transform: translateX(-50%);
-  z-index: 1; /* hinter Kreis und Raumschiff */
+  z-index: 1;
 }
-
 /* Oben: Raumschiff */
 .ship-text {
-  margin-top: 0rem;
+  margin-top: -114rem;
   font-size: 2rem;
   font-weight: 600;
   letter-spacing: 1px;
 }
 /* Kreis */
 .kreis-button {
+  margin-top: -114px; /* 3 cm tiefer */
   width: 150px;
   height: 150px;
   border-radius: 50%;
