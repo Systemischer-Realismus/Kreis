@@ -182,10 +182,10 @@ body.index-surface {
 }
 /* Oben: Raumschiff */
 .ship-text {
-  margin-top: -114rem;
+  margin-top: -114px; /* 3 cm höher */
   font-size: 2rem;
   font-weight: 600;
-  letter-spacing: 1px
+  letter-spacing: 1px;
   position: relative;
   z-index: 3;
 }
@@ -204,7 +204,7 @@ body.index-surface {
   font-weight: 600;
   font-size: 1rem;
   background: rgba(255, 255, 255, 0.05);
-  transition: 0.3s ease
+  transition: 0.3s ease;
   position: relative;
   z-index: 3;
 }
@@ -212,10 +212,6 @@ body.index-surface {
 .kreis-button:hover {
   background: rgba(255, 255, 255, 0.15);
   transform: scale(1.05);
-}
-/* Erde */
-.hero-earth {
-  margin-top: -2rem; /* Erde näher an den Kreis */
 }
 .earth {
   width: 900px;   /* oder 250px, wenn du sie größer willst */
