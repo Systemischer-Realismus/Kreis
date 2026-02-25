@@ -202,17 +202,6 @@ body.index-surface {
   background: rgba(255, 255, 255, 0.15);
   transform: scale(1.05);
 }
-
-/* Stiller Grundsatz */
-.grundsatz.still {
-  max-width: 650px;
-  margin: 1rem auto 2rem auto;
-  font-size: 1rem;
-  line-height: 1.6;
-  color: #cccccc;
-  opacity: 0.8;
-  font-weight: 300;
-}
 /* Erde */
 .hero-earth {
   display: flex;
@@ -225,4 +214,14 @@ body.index-surface {
   width: 220px;   /* oder 250px, wenn du sie größer willst */
   height: auto;
   opacity: 0.9;
+}
+/* Stiller Grundsatz */
+.grundsatz.still {
+  max-width: 650px;
+  margin: 1rem auto 2rem auto;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #cccccc;
+  opacity: 0.8;
+  font-weight: 300;
 }
