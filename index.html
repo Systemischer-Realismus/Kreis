@@ -48,7 +48,7 @@
 
     // Erde transformieren
     const earth = document.querySelector(".earth");
-    earth.style.transform = ` rotateX(${tilt}deg)`;//rotateZ(${rotation}deg)
+    earth.style.transform = `rotateZ(${rotation}deg) rotateX(${tilt}deg)`;
 
     // Optional: Leser zurück in das letzte Kapitel führen
     const last = localStorage.getItem("lastChapter");
