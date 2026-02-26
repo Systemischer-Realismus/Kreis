@@ -184,7 +184,7 @@ body.index-surface {
 /* Erde – proportional, immer zentriert */
 .earth-container {
   position: absolute;
-  top: 4vh;                 /* proportional statt Pixel */
+  top: 3vh;                 /* proportional statt Pixel */
   left: 50%;
   transform: translateX(-50%);
   z-index: 1;
