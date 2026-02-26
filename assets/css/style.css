@@ -165,34 +165,52 @@ body.index-surface {
 }
 
 /* Hauptsektion */
+/* --------------------------------------------------
+   RESPONSIVE STARTSEITE – KREIS / ERDE / RAUMSCHIFF
+-------------------------------------------------- */
+
+/* Hauptcontainer: vertikale Achse */
 .hero-kreis {
-  height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start; /* Start statt Mitte */
   align-items: center;
-  padding-top: 12rem;
+  justify-content: flex-start;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
 }
+
+/* Erde – proportional, immer zentriert */
 .earth-container {
   position: absolute;
-  top: 19px; /* 3 cm */
+  top: 5vh;                 /* proportional statt Pixel */
   left: 50%;
   transform: translateX(-50%);
   z-index: 1;
 }
-/* Oben: Raumschiff */
+
+.earth {
+  width: 80vw;              /* 80% der Bildschirmbreite */
+  max-width: 900px;         /* aber nie größer als PC-Version */
+  height: auto;
+  opacity: 0.95;
+}
+
+/* Raumschiff – proportionaler Abstand */
 .ship-text {
-  margin-top: -114px; /* 3 cm höher */
+  margin-top: 5vh;          /* statt -114px */
   font-size: 2rem;
   font-weight: 600;
   letter-spacing: 1px;
   position: relative;
   z-index: 3;
 }
-/* Kreis */
+
+/* Kreis – proportionaler Abstand, Text bleibt im Kreis */
 .kreis-button {
   position: relative;
-  top: 380px; /* 10 cm nach unten */
+  margin-top: 10vh;         /* 10% der Bildschirmhöhe */
   width: 150px;
   height: 150px;
   border-radius: 50%;
@@ -213,16 +231,16 @@ body.index-surface {
   background: rgba(255, 255, 255, 0.15);
   transform: scale(1.05);
 }
-.earth {
-  width: 900px;   /* oder 250px, wenn du sie größer willst */
-  height: auto;
-  opacity: 0.95;
-}
-/* Stiller Grundsatz */
+
+/* Grundsatz – bleibt in der Erde */
 .grundsatz.still {
   position: absolute;
-  bottom: 80px; /* Höhe innerhalb der Erde */
+  bottom: 10vh;             /* proportional statt 80px */
   left: 50%;
   transform: translateX(-50%);
   z-index: 4;
+  font-size: 1.1rem;
+  line-height: 1.5;
+  width: 80%;
+  max-width: 600px;
 }
